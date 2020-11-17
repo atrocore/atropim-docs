@@ -1,7 +1,9 @@
 # Associated Products
 
 [what ist atrocore](https://github.com/atrocore/atrocore-docs/blob/master/en/user-guide/what-is-atrocore.md)
+//
 [link to brands](./brands.md)
+//
 [linkt to faq general](../faq/general.md)
 
 **Associated Products** – two products, which are related within a certain association. So there is a *main product* and a *related product*. Related products are not automatically cross-linked, so if product A (main product) is related to product B (associated product), it does not mean that product B is automatically related to product A. 

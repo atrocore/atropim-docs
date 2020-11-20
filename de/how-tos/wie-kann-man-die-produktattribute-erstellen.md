@@ -36,7 +36,9 @@ Für nähere Informationen zu Attributen und ihren Typen lesen Sie die Dokumenta
 
 ## Konfiguration der Attribute für Produktfamilien
 
-Auf der Seite einer Produktfamilie kann man Attribute hinzufügen und bearbeiten, die zu der jeweiligen Produktfamilie gehören. Hier kann man entweder ein Attribut zusammen mit dessen Scope (Button `✚`) ![](images/image15.png)
+Auf der Seite einer Produktfamilie kann man Attribute hinzufügen und bearbeiten, die zu der jeweiligen Produktfamilie gehören. Hier kann man entweder ein Attribut zusammen mit dessen Scope (Button `✚`) 
+
+![](../../_assets/how-tos/wie-kann-man-die-produktattribute-erstellen/image15.png)
 
 oder mehrere Attribute mit dem Scope `Global` hinzufügen (Button `▼`).
 

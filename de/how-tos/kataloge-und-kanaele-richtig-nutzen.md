@@ -4,7 +4,7 @@ Kataloge und Kanäle bilden die Grundlage für eine Multichannel-Veröffentlichu
 
 Ein Katalog ist das Sortiment der Produkte, die nach einem bestimmten Merkmal gruppiert sind, wenn Sie z.B. eine neue Kleiderkollektion haben. Produkte werden den Katalogen direkt zugeordnet.
 
-![](images/image29.png) 
+![](../../_assets/kataloge-und-kanaele-richtig-nutzen/image29.png) 
 
 Kanäle sind Enddestinationen für Ihre Produktinformationen. Produkte können den Kanälen direkt oder indirekt über die Produktkategorien zugeordnet werden. Die indirekte Zuordnung erfolgt über die Zuordnung des Kategoriebaums, zu dem die Kategorie gehört, zu einem Kanal. Ein Kategoriebaum kann zu mehreren Kanälen zugleich zugeordnet sein. In diesem Fall wird das Produkt allen diesen Kanälen entsprechend zugeordnet.
 
@@ -16,7 +16,7 @@ Somit bestimmen die Kataloge die Produkte, die exportiert werden sollen, und Kan
 
 Um einen neuen Katalog zu erstellen, muss man auf die Entitätsseite der Kataloge wechseln und auf den Button `Erstellen` klicken.
 
-![](images/image11.png)
+![](../../_assets/kataloge-und-kanaele-richtig-nutzen/image11.png)
 
 Jeder Nutzer kann die Struktur von Katalogen entsprechend seinen Anforderungen einstellen. So können Kataloge für die Segmentierung des Produktsortiments verwendet werden, um die Produktinformationen für entsprechende Kanäle weiter zu exportieren und um historische Produktinformationen zu speichern, z.B. für die Erstellung der Kataloge von Kleidung- und Schuhkollektionen von den Lieferanten: “Jacken Herbst-Winter 2017”, “Jacken Herbst-Winter 2018”. Den Namen des Katalogs sind so anzugeben, dass es sofort klar ist, welche Produkte darin enthalten sind, oder man kann den Namen des Kanals angeben – somit ist es klar, wofür dieser Katalog gedacht ist.
 
@@ -24,7 +24,7 @@ Jeder Nutzer kann die Struktur von Katalogen entsprechend seinen Anforderungen e
 
 Um einen neuen Kanal zu erstellen, klickt man auf der Seite der Kanäle auf den Button `Erstellen`.
 
-![](images/image37.png)
+![](../../_assets/kataloge-und-kanaele-richtig-nutzen/image37.png)
 
 Um die Menge an Produktinformationen einzuschränken, die durch einen Kanal übergeben werden, kann man bei der Einrichtung des Kanals zusätzlich angeben:
 

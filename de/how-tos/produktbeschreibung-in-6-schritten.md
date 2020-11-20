@@ -32,7 +32,7 @@ Der Nutzer kann eine beliebige Anzahl von Produktattributen erstellen. Produktfe
 
 Um ein Produkt zu erstellen, muss man auf die Entität Produkt übergehen und auf `Create Product` klicken (oben rechts). Es wird ein Pop-up Fenster angezeigt, in dem man die Pflichtfelder des neuen Produktes ausfüllen soll.
 
-![](images/image52.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image52.png)
 
 Die Produktfelder können die Informationen beinhalten, die für System-Nutzer, aber nicht für Endkunden von Bedeutung sind. Das können ID, SKU, alternative Namen der Produkte usw. sein.
 
@@ -42,11 +42,11 @@ Das Attribut (die Eigenschaft) – ist eine Charakteristik des Produktes. Das si
 
 Produktattribute können mit den Produkten auf zwei Weisen verknüpft werden – über Produktfamilien:
 
-![](images/image2.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image2.png)
 
 oder direkt.
 
-![](images/image3.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image3.png)
 
 Wenn man ein Produkt z.B. der Produktfamilie “Hemden” zuordnet,  werden diese Attribute mit dem Produkt automatisch verknüpft und werden von den Nutzern folgende Attribute abgefragt: Geschlecht, Größe, Farbe, Kragenweite usw. (abhängig davon, welche Attribute der Produktfamilie “Hemden” zugeordnet sind). Deshalb hat die richtige Konfiguration von Produktfamilien sehr wichtige Bedeutung für die Endqualität der Produktinformationen. Für nähere Informationen dazu lesen Sie den Artikel \[“Wie kann man die Produktfamilien erstellen?”\] (https://wwwwwwwwwww).
 
@@ -54,11 +54,11 @@ Produktattribute können mit den Produkten auch direkt verlinkt werden, diese si
 
 Nachdem die Produktattribute mit dem Produkt verknüpft sind, kann man die Attributwerte eintragen. Dies ist auf zwei Weisen möglich, über das Kontextmenü eines Attributs:
 
-![](images/image32.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image32.png)
 
 oder über Editieren des Produktes:
 
-![](images/image45.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image45.png)
 
 Für nähere Informationen über Attribute lesen Sie bitte die Dokumentation \[“Attribute”\] (https://wwwwwwwwwwww).
 
@@ -70,13 +70,13 @@ Im AtroPIM kann ein Bild zu mehr als einem Produkt zugeordnet werden. Und wenn m
 
 Die Produktbilder werden im Panel `Asset Relations` angezeigt. Die Assets werden automatisch nach deren Typen gruppiert.
 
-![](images/image48.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image48.png)
 
 Hier kann man neue Assets hochladen (1) oder die im DAM bereits bestehende Assets aussuchen (2). Man kann die Dateien verschiedener Formate und Größen hochladen: csv, png, md, jpg, zip und andere Dateien, die von der Konfiguration erlaubt sind. Maximale Dateigröße kann auch konfiguriert werden. Zur Bequemlichkeit wurde die Möglichkeit hinzugefügt, das Asset nach dem Code auszuwählen, der für jedes Asset einzigartig ist.
 
 Es ist auch möglich, verschiedene Rollen den Assets zu vergeben. Die möglichen Werte sind über den `Entity Manager` konfigurierbar. Dem Hauptbild sollte die Rolle Main zugeordnet sein. Es wird im Panel `Product Preview` angezeigt:
 
-![](images/image46.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image46.png)
 
 Der Nutzer hat die Möglichkeit, die Reihenfolge der Bilder mittels Drag-and-Drop zu bestimmen.
 
@@ -98,19 +98,19 @@ Man kann bestehende vorkonfigurierte Assoziationen nutzen oder neue Assoziatione
 
 Im AtroPIM kann man sowohl einseitige (das Produkt A ist mit dem Produkt B assoziiert, aber nicht umgekehrt) als auch zweiseitige Assoziationen erstellen (das Produkt A und das Produkt B sind miteinander assoziiert). Bei der zweiseitigen Assoziation gibt es auch die Möglichkeit, verschiedene Assoziationstypen zwischen den Produkten anzugeben.
 
-![](images/image5.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image5.png)
 
 Um eine Produktassoziation zu erstellen, muss man auf die entsprechende Produktseite übergehen und im Panel `Associated Product` auf `✚` klicken. Es wird ein Popup geöffnet, wo man die Assoziation mit diesem und einem ausgewählten Produkt erstellen kann. Wenn Sie die Checkbox `Both Directions` setzen, wird das zusätzliche Feld `Related Association` angezeigt. In diesem Feld können Sie den Typ für Rückassoziation auswählen. So erstellen Sie eine zweiseitige Assoziation: das Produkt A wird mit dem Produkt B assoziiert, der Assoziationstyp ist dabei Up-Sell; und das Produkt B wird mit dem Produkt A assoziiert, der Assoziationstyp ist dabei Down-Sell.
 
 Alle Assoziationen zwischen den Produkten kann man auf der Seite `Associated Products` ansehen. Bei der Erstellung einer zweiseitigen Assoziation werden auf diese Seite zwei verschiedene Einträge hinzugefügt.
 
-![](images/image6.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image6.png)
 
 ## Schritt 6: Kategorisieren Sie das Produkt
 
 Damit Ihre Produktbeschreibungen die Endkunden erreichen, muss man für jedes Produkt eine oder mehrere Kategorien angeben, denen das Produkt zugeordnet wird.
 
-![](images/image42.png)
+![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image42.png)
 
 Im AtroPIM ist es möglich, einen oder mehrere Kategoriebäume zu nutzen, die mithilfe von Parent-Child Beziehungen automatisch erstellt werden. Jede Child-Kategorie kann nur eine Parent-Kategorie haben, jede Parent-Kategorie kann eine oder mehrere Child-Kategorien haben.
 

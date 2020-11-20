@@ -10,7 +10,7 @@ Werden bei den Kategorien mehrere Wurzelkategorien erstellt, wird der Nutzer mit
 
 ![](../../_assets/how-tos/wie-kann-man-die-kategorien-konfigurieren/image58.png)
 
-In der Ansicht eines Kategoriebaums (Ansicht \`Tree View\`) kann man alle Kategoriebäume übersichtlich sehen.
+In der Ansicht eines Kategoriebaums (Ansicht `Tree View`) kann man alle Kategoriebäume übersichtlich sehen.
 
 ![](../../_assets/how-tos/wie-kann-man-die-kategorien-konfigurieren/image40.png)
 

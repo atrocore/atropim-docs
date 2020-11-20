@@ -27,7 +27,7 @@ Für die Erstellung einer neuen Produktfamilie sind folgende Pflichtfelder anzug
 -   `Name` – der Name der Produktfamilie.
 -   `Code` – der innere Code der Produktfamilie, der eindeutig ist. Es dürfen nur Ziffern, Kleinbuchstaben und der Unterstrich genutzt werden.
 
-![](../../_assets/how-tos/wie-kann-man-die-produktfamilien-erstellen/image30.png = 300px)
+![](../../_assets/how-tos/wie-kann-man-die-produktfamilien-erstellen/image30.png =300x)
 
 Wir würden empfehlen, die Produktfamilien eindeutig und aussagekräftig zu benennen, damit eindeutig erkennbar ist, welche Attribute dort verwendet werden.
 
@@ -35,7 +35,7 @@ Wenn Sie Produktfamilien mit gleichen oder ähnlichen Namen benennen, können Si
 
 Bei der Erstellung neuer Produktfamilien kann man die bestehende Produktfamilie duplizieren, dabei werden alle Attribute der Produktfamilie mit kopiert.
 
-![](../../_assets/how-tos/wie-kann-man-die-produktfamilien-erstellen/image24.png =100px)
+![](../../_assets/how-tos/wie-kann-man-die-produktfamilien-erstellen/image24.png =100x)
 
 Unnötige Attribute können aus der Produktfamilie nach ihrer Erstellung entfernt werden, die neuen werden hinzugefügt. Die Nutzung dieser Option ermöglicht es, viel Zeit bei der Systemkonfiguration zu sparen.
 

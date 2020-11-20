@@ -21,11 +21,11 @@ AtroPIM verfügt über flexible Filter mit folgenden Arten:
 
 Um Filter nutzen zu können, muss man das Menü mit Filtern links vom Suchfeld öffnen. Hier kann man auch benutzerdefinierte Filter speichern, nachdem die Filter eingestellt wurden.
 
-![](images/image10.png)
+![](../../_assets/how-tos/unfertige-produkte-schnell-auswaehlen/image10.png)
 
 Um konfigurierte Filter auszuwählen, muss man auf `Add Filter` klicken. Im Popup werden die Felder angezeigt, die im `Layout Manager` für Filterung konfiguriert sind. Um einen Filter hinzuzufügen, muss man die entsprechende Option auswählen und die benötigten Werte eingeben.
 
-![](images/image9.png)
+![](../../_assets/how-tos/unfertige-produkte-schnell-auswaehlen/image9.png)
 
 ### Eingebaute Filter
 
@@ -48,11 +48,11 @@ Durch die Nutzung der Optionen `Add Filter` und `Add Attribute Filter` kann man 
 
 Für die schnelle Navigation zu Produkten, die noch zu bearbeiten sind, empfehlen wir auch, das Dashboard zu nutzen. Zur Bequemlichkeit kann man einstellen, dass auf dem Dashboard das Dashlet `General Statistics` angezeigt wird. Hier sind alle zusammengefassten Informationen über Ihre Produkte anzusehen. Auf diesem Dashlet werden auch die Informationen nach eingebauten Filtern angezeigt. Um auf die benötigte Produktannahme zu überzugehen, muss man einfach auf die entsprechende Position im Dashlet klicken.
 
-![](images/image22.png)
+![](../../_assets/how-tos/unfertige-produkte-schnell-auswaehlen/image22.png)
 
 Wenn Sie dieses Dashlet nicht haben, klicken Sie auf das Icon `✚` rechts oben auf der Dashboard-Seite, unter der Taskleiste.
 
-![](images/image38.png)
+![](../../_assets/how-tos/unfertige-produkte-schnell-auswaehlen/image38.png)
 
 ## Nutzung von Status und anderer Felder von Typ Enum oder Multi-Enum
 
@@ -64,7 +64,7 @@ Die Nutzung von Multi-Enum Felder, z.B. `Tags` ist ein sehr flexibles Tool für 
 
 Die Nutzung von Filtern nach `Tags` und `Status` (oder ähnlichen Feldern) hilft verschiedenen Mitarbeitern, ihre Arbeit schneller und qualitativer zu erledigen.
 
-![](images/image55.png)
+![](../../_assets/how-tos/unfertige-produkte-schnell-auswaehlen/image55.png)
 
 Die Nutzung von Enum und Multi-Enum Feldern erleichtert die Arbeit Ihrer Mitarbeiter und hilft, unvollständige, fertige und andere benötigte Produkte schneller zu finden.
 

@@ -4,7 +4,7 @@ Bei der Produkterstellung können die Produktfamilien genutzt werden. Die Produk
 
 Nachdem eine Produktfamilie für ein Produkt angegeben ist, vererbt das Produkt automatisch alle Attribute der Produktfamilie. Fernseher  können beispielsweise als eine Produktfamilie gelten. Jeder Fernseher, der zu dieser Produktfamilie gehört, wird durch dieselben Attribute gekennzeichnet und kann mit diesen beschrieben werden – das sind z.B. Gewicht, Bildschirmgröße, Anschlussmöglichkeiten (Ports), Bildschirmtechnologie usw.
 
-![](images/image20.png)
+![](../../_assets/how-tos/wie-kann-man-die-produktfamilien-erstellen/image20.png)
 
 ## Bestimmen Sie die notwendigen Produktfamilien
 
@@ -27,7 +27,7 @@ Für die Erstellung einer neuen Produktfamilie sind folgende Pflichtfelder anzug
 -   `Name` – der Name der Produktfamilie.
 -   `Code` – der innere Code der Produktfamilie, der eindeutig ist. Es dürfen nur Ziffern, Kleinbuchstaben und der Unterstrich genutzt werden.
 
-![](images/image30.png)
+![](../../_assets/how-tos/wie-kann-man-die-produktfamilien-erstellen/image30.png)
 
 Wir würden empfehlen, die Produktfamilien eindeutig und aussagekräftig zu benennen, damit eindeutig erkennbar ist, welche Attribute dort verwendet werden.
 
@@ -35,7 +35,7 @@ Wenn Sie Produktfamilien mit gleichen oder ähnlichen Namen benennen, können Si
 
 Bei der Erstellung neuer Produktfamilien kann man die bestehende Produktfamilie duplizieren, dabei werden alle Attribute der Produktfamilie mit kopiert.
 
-![](images/image24.png)
+![](../../_assets/how-tos/wie-kann-man-die-produktfamilien-erstellen/image24.png)
 
 Unnötige Attribute können aus der Produktfamilie nach ihrer Erstellung entfernt werden, die neuen werden hinzugefügt. Die Nutzung dieser Option ermöglicht es, viel Zeit bei der Systemkonfiguration zu sparen.
 

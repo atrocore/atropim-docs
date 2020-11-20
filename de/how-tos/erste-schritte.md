@@ -34,7 +34,7 @@ Für nähere Informationen zur Erstellung der Produktassoziationen lesen Sie den
 
 Die Definition einer Produktfamilie ist der erste Schritt für eine Segmentierung des Produktsortiments des Anwenders. Man braucht Produktfamilien, um die Beschreibungen der Produkte einer Art zu vereinheitlichen. Produktfamilien bestimmen, welche Attribute ein Produkt von dieser Produktfamilie haben soll. 
 
-Für nähere Informationen zur Konfiguration der Produktfamilien lesen Sie den Artikel: \[“Wie kann man die Produktfamilien richtig konfigurieren”\](https://wwwwwwwwwwwwww).
+Für nähere Informationen zur Konfiguration der Produktfamilien lesen Sie den Artikel: \[“Wie kann man die Produktfamilien erstellen?”\](https://wwwwwwwwwwwwww).
 
 ## Kategorien konfigurieren
 

@@ -26,7 +26,7 @@ Teams werden erstellt, um die Mitarbeiter zu verbinden, die gleiche Pflichten ha
 
 Um ein Team zu erstellen, muss der Administrator auf `Administration` → `Teams` →  `Create Team` gehen.
 
-![](../../_assets/_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image8.png)
+![](../../_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image8.png)
 
 Die Erstellung von qualitativen Produktbeschreibungen erfordert die Zusammenarbeit zwischen verschiedenen Teams.
 
@@ -42,13 +42,13 @@ Jedem Nutzer können bestimmte Rollen zugewiesen werden und der Nutzer selbst ka
 
 Um einen neuen Nutzer zu erstellen, muss der Administrator auf `Administration` → `Users` gehen und auf den Button `Create User` klicken. 
 
-![](../../_assets/_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image54.png)
+![](../../_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image54.png)
 
 Die Nutzer sollen im System den Zugang zu genau den Daten und Funktionen haben, die sie für die Erfüllung ihrer Dienstpflichten benötigen, nicht mehr.
 
 Jeder PIM-Nutzer kann die Daten des eigenen Kontos ansehen und bearbeiten (falls für die Rolle solche Berechtigungen eingestellt sind) und das Passwort ändern. Man kann auch ansehen, welche Berechtigungen der Nutzer hat, abhängig davon, welche Rollen ihm zugewiesen sind. Dafür muss man auf `Access` in den Einstellungen des persönlichen Kontos klicken. Es ist zu erwähnen, dass der Nutzer die Summe aller Berechtigungen seiner Rollen erhält.
 
-![](../../_assets/_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image17.png)
+![](../../_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image17.png)
 
 Beispiel:
 
@@ -62,7 +62,7 @@ Eine neue Rolle kann vom Administrator erstellt werden:
 
 `Administration` → `Roles` → `Create Role`
 
-![](../../_assets/_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image26.png)
+![](../../_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image26.png)
 
 Bei der Erstellung einer Rolle müssen die Berechtigungen zu `Create`, `Read`, `Edit`, `Delete` und `Stream` für erforderliche Entitäten eingestellt werden.
 
@@ -85,7 +85,7 @@ Für jede Berechtigung kann man die Zugangsebene einstellen. So kann es z.B. ein
 
 Die Berechtigungen eines Nutzers bezüglich der Einträge im System werden mithilfe deren Ownership Informationen festgehalten:
 
-![](../../_assets/_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image57.png)
+![](../../_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image57.png)
 
 Wird der Benutzer zum Owner oder Assigned User eines Eintrags gesetzt, hat er den Zugang zu diesem Eintrag, falls seine Zugagsebene `own` oder höher für diese Entität (hier z.B. Produkte) ist.
 
@@ -95,7 +95,7 @@ Für jede Entität im System kann man die Möglichkeit aktivieren oder deaktivie
 
 Dafür muss man auf `Administration` → `Еntity Manager` gehen, die nötige Entität öffnen und auf `Bearbeiten` klicken. Danach muss man das Häkchen bei der Checkbox `Team`, `Assigned User` oder `Owner` setzen und die Änderungen speichern.
 
- ![](../../_assets/_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image28.png)
+ ![](../../_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image28.png)
 
 Dies ist notwendig, um die Zugänge zu den Einträgen dieser Entitäten zu konfigurieren.
 
@@ -165,7 +165,7 @@ Obwohl der Nutzer Bill zum Team gehört, das für beide Produkte angegeben ist, 
 
 AtroPIM bietet unter anderem die Möglichkeit an, die Zugangsrechte auf der Feldebene einer bestimmten Entität zu konfigurieren. Dazu muss man bei der Bearbeitung der Rolle auf dem Panel `Field Level` auf das Icon `✚` nach der entsprechenden Entität klicken. Es wird ein Popup mit den zu dieser Entität gehörenden Feldern geöffnet. Nachdem man das Feld ausgewählt hat, kann man den Zugang zum Lesen oder Bearbeiten dieses Feldes einstellen, indem man `yes` oder `no` für die erforderliche Aktion angibt. 
 
-![](../../_assets/_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image35.png) 
+![](../../_assets/how-tos/wie-kann-man-eine-effektive-teamarbeit-organisieren/image35.png) 
 
 Diese Funktion ist notwendig, wenn der Nutzer den Zugang zu bestimmten Einträgen benötigt, dabei aber die Werte in anderen Feldern nicht ändern (z. B. um versehentliche Änderungen zu vermeiden) oder sehen darf. Diese Funktion ist besonders nützlich, wenn verschiedene Personen für die Ausfüllung diverser Felder zuständig sind. Wenn Sie beispielsweise einen Mitarbeiter haben, der auf der Produktseite nur technische Details eintragen muss, ist es empfehlenswert, für ihn die Berechtigungen zum Bearbeiten der Felder `SKU` oder `Product Status` einzuschränken.
 

@@ -10,7 +10,7 @@ In diesem Artikel gehen wir von den Anforderungen eines durchschnittlichen Anwen
 
 Das Produktattribut bestimmt eine gewisse Eigenschaft eines Produktes. Dank der Typisierung der Attribute sind ihre Werte auch typisiert. So werden die Produktattribute nicht nur verwendet, um das Produkt allseitig und vollwertig zu beschreiben, sondern auch bei den Filtern, um dem Endkunden dabei zu helfen, das nötige Produkt schneller zu finden. Gerade deshalb ist die Produktbeschreibung mit den Attributen sehr wichtig. Typische Attribute für Kleidung sind z.B. Größe und Farbe. 
 
-Bei AtroPIM gibt es 14 Attributtypen. Die Nutzung von Attributtypen ist für eine bessere Typisierung und entsprechende Validierung der Daten im System nötig. Für nähere Informationen zu Attributen und ihren Typen lesen Sie bitte die [Dokumentation](https://atropim.com/help/atropim-user-guide-attributes). 
+Bei AtroPIM gibt es 14 Attributtypen. Die Nutzung von Attributtypen ist für eine bessere Typisierung und entsprechende Validierung der Daten im System nötig. Für nähere Informationen zu Attributen und ihren Typen lesen Sie bitte die [Dokumentation](https://github.com/atrocore/atropim-docs/blob/master/en/user-guide/attributes.md). 
 
 Für nähere Informationen zur Konfiguration der Produktattribute lesen Sie den Artikel: [“Wie kann man die Produktattribute erstellen?”](./wie-kann-man-die-produktattribute-erstellen.md).
 

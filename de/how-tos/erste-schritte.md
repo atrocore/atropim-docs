@@ -28,13 +28,13 @@ Bei AtroPIM kann jeder User selbst die Beziehungstypen konfigurieren, die er zu 
 -   Is Part of
 -   usw.
 
-Für nähere Informationen zur Erstellung der Produktassoziationen lesen Sie den Artikel \[“Wie kann man eine vollwertige und qualitative Produktbeschreibung in 6 Schritte erstellen. Schritt 5.”\] (https://wwwwwwwwwwwwwwww).
+Für nähere Informationen zur Erstellung der Produktassoziationen lesen Sie den Artikel [“Wie kann man eine vollwertige und qualitative Produktbeschreibung in 6 Schritte erstellen. Schritt 5.”](./produktbeschreibung-in-6-schritten.md#schritt-5-geben-sie-assoziierte-produkte-an).
 
 ## Produktfamilien konfigurieren
 
 Die Definition einer Produktfamilie ist der erste Schritt für eine Segmentierung des Produktsortiments des Anwenders. Man braucht Produktfamilien, um die Beschreibungen der Produkte einer Art zu vereinheitlichen. Produktfamilien bestimmen, welche Attribute ein Produkt von dieser Produktfamilie haben soll. 
 
-Für nähere Informationen zur Konfiguration der Produktfamilien lesen Sie den Artikel: \[“Wie kann man die Produktfamilien erstellen?”\](https://wwwwwwwwwwwwww).
+Für nähere Informationen zur Konfiguration der Produktfamilien lesen Sie den Artikel: [“Wie kann man die Produktfamilien erstellen?”](./wie-kann-man-die-produktfamilien-erstellen.md).
 
 ## Kategorien konfigurieren
 
@@ -44,7 +44,7 @@ Der größte Unterschied zwischen Kategorien und Produktfamilien liegt darin, da
 
 Durch die Zuordnung eines Produktes zu einer bestimmten Kategorie kann der Kanal mitbestimmt werden, welchem die Produktdaten zu übergeben sind.
 
-Für nähere Informationen zur  Produktkategorisierung lesen Sie den Artikel: \[“Wie kann man die Kategorien konfigurieren?”\] (https://wwwwwwwwwwwwwwwww). 
+Für nähere Informationen zur  Produktkategorisierung lesen Sie den Artikel: [“Wie kann man die Kategorien konfigurieren?”](./wie-kann-man-die-kategorien-konfigurieren.md). 
 
 ## Kataloge und Kanäle konfigurieren
 
@@ -52,4 +52,4 @@ Kataloge können im System dafür verwendet werden, unterschiedliche Produktsort
 
 Kanäle sind die Destinationen für die Produktinformationen; diese können z.B. sein: Erstellung eines Druckkatalogs, Onlineshops, Marktplätze etc. Die Nutzung der Kanäle ermöglicht eine effektive Realisierung Ihrer Multichannel- oder Omnichannel-Strategie.
 
-Für nähere Informationen zur Konfiguration der Produktfamilien lesen Sie den Artikel: \[“Wie kann man die Kataloge und Kanäle richtig nutzen?”\] (https://wwwwwwwwwwww). 
+Für nähere Informationen zur Konfiguration der Produktfamilien lesen Sie den Artikel: [“Wie kann man die Kataloge und Kanäle richtig nutzen?”](./kataloge-und-kanaele-richtig-nutzen.md). 

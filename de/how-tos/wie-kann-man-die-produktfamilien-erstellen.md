@@ -41,4 +41,4 @@ Unnötige Attribute können aus der Produktfamilie nach ihrer Erstellung entfern
 
 Wenn Sie beispielsweise eine neue Kleidungskollektion bekommen haben, bei der ein neues Attribut, z.B. “Stil”, genutzt werden sollte, das bei den alten Kollektionen nicht vorhanden war, können Sie eine neue Produktfamilie “Kleidung New” basierend auf der Produktfamilie “Kleidung” erstellen und dieses Attribut der neuen Produktfamilie als Pflichtattribut hinzufügen.
 
-Für nähere Informationen zur Konfiguration der Attribute, die zu einer bestimmten Produktfamilie gehören müssen, lesen Sie den Artikel  \[“Wie kann man die Produktattribute erstellen?”\] (https://wwwwwwwwwwwww).
+Für nähere Informationen zur Konfiguration der Attribute, die zu einer bestimmten Produktfamilie gehören müssen, lesen Sie den Artikel [“Wie kann man die Produktattribute erstellen?”](./wie-kann-man-die-produktattribute-erstellen.md).

@@ -12,7 +12,7 @@ Das Produktattribut bestimmt eine gewisse Eigenschaft eines Produktes. Dank der 
 
 Bei AtroPIM gibt es 14 Attributtypen. Die Nutzung von Attributtypen ist für eine bessere Typisierung und entsprechende Validierung der Daten im System nötig. Für nähere Informationen zu Attributen und ihren Typen lesen Sie bitte die [Dokumentation](https://atropim.com/help/atropim-user-guide-attributes). 
 
-Für nähere Informationen zur Konfiguration der Produktattribute lesen Sie den Artikel: [“Wie kann man die Produktattribute erstellen?”](../wie-kann-man-die-produktattribute-erstellen.md).
+Für nähere Informationen zur Konfiguration der Produktattribute lesen Sie den Artikel: [“Wie kann man die Produktattribute erstellen?”](./wie-kann-man-die-produktattribute-erstellen.md).
 
 ## Assoziationen konfigurieren
 

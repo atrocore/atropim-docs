@@ -1,6 +1,6 @@
 # Wie kann man unfertige Produkte schnell auswählen?
 
-Wie man eine qualitative Produktbeschreibung erstellen kann, lesen Sie in dem Artikel \[“Wie kann man vollständige und qualitative Produktbeschreibung in 6 Schritten erstellen” \](https://wwwwwwwwwww).
+Wie man eine qualitative Produktbeschreibung erstellen kann, lesen Sie in dem Artikel [“Wie kann man vollständige und qualitative Produktbeschreibung in 6 Schritten erstellen” ](./produktbeschreibung-in-6-schritten.md).
 
 Leider kann man in der Praxis ein Produkt nicht sofort von Anfang bis Ende beschreiben, da dieser Prozess nicht linear ist und es können gleichzeitig oder nacheinander mehrere Mitarbeiter daran teilnehmen. Deshalb benötigt jeder Anwender die Möglichkeit, die Produkte schnell auszuwählen, welche von seiner Seite qualitativ noch nicht ausreichend und noch zu bearbeiten sind. 
 
@@ -58,7 +58,7 @@ Wenn Sie dieses Dashlet nicht haben, klicken Sie auf das Icon `✚` rechts oben 
 
 Beim Produkt gibt es das Feld `Product Status`, welches zeigt, inwiefern das Produkt zur Veröffentlichung vorbereitet ist. Jeder Systemnutzer kann eigene Status entsprechend seinem Produktworkflow konfigurieren. Diese Status stellen die Bereitschaft des Produktes oder den aktuellen Zustand der Beschreibung dar, falls es in Ihrem Produktworkflow vorgesehen ist.
 
-Mittels Filterung nach Status kann jeder Nutzer verstehen, welche Informationen für gefilterte Produkte anzugeben sind. Für nähere Informationen über die Nutzung von Status und anderer Felder von Typ `Enum` oder `Multi-Enum` lesen Sie unseren Artikel \[“Wie kann man die Workflows nutzen? “\] (https://wwwwwwwwwwwwwwwww).
+Mittels Filterung nach Status kann jeder Nutzer verstehen, welche Informationen für gefilterte Produkte anzugeben sind. Für nähere Informationen über die Nutzung von Status und anderer Felder von Typ `Enum` oder `Multi-Enum` lesen Sie unseren Artikel [“Wie kann man die Workflows nutzen?“](wie-kann-man-die-workflows-nutzen.md).
 
 Die Nutzung von Multi-Enum Felder, z.B. `Tags` ist ein sehr flexibles Tool für die Angabe bestimmter Produkt- oder Workflow-Besonderheiten. Die Filterung nach `Tags` ermöglicht es, Produkte nach einem bestimmten Merkmal zu filtern, um ihre Informationen zu vervollständigen.
 

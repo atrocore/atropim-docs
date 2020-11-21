@@ -19,7 +19,7 @@ In diesem Artikel werden wir die Schritte zur Erstellung einer qualitativen Prod
 
 Für ein neu erstelltes Produkt kann man die Produktfamilie angeben, damit die benötigten auszufüllenden Produktattribute mit dem Produkt verlinkt werden. Vor der Erstellung der neuen Produkte muss man sich davon überzeugen, dass alle notwendigen Produktfamilien erstellt und richtig konfiguriert sind – somit vermeiden Sie eine wiederholte Erstellung.
 
-Für nähere Informationen zur Erstellung und Konfiguration der Produktfamilien lesen Sie den Artikel \[Wie kann man die Produktfamilien erstellen? \] (https://wwwwwwwwwwwwwwww). 
+Für nähere Informationen zur Erstellung und Konfiguration der Produktfamilien lesen Sie den Artikel [Wie kann man die Produktfamilien erstellen?](./wie-kann-man-die-produktfamilien-erstellen.md). 
 
 ## Schritt 2: Erstellen Sie ein neues Produkt
 
@@ -48,7 +48,7 @@ oder direkt.
 
 ![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image3.png)
 
-Wenn man ein Produkt z.B. der Produktfamilie “Hemden” zuordnet,  werden diese Attribute mit dem Produkt automatisch verknüpft und werden von den Nutzern folgende Attribute abgefragt: Geschlecht, Größe, Farbe, Kragenweite usw. (abhängig davon, welche Attribute der Produktfamilie “Hemden” zugeordnet sind). Deshalb hat die richtige Konfiguration von Produktfamilien sehr wichtige Bedeutung für die Endqualität der Produktinformationen. Für nähere Informationen dazu lesen Sie den Artikel \[“Wie kann man die Produktfamilien erstellen?”\] (https://wwwwwwwwwww).
+Wenn man ein Produkt z.B. der Produktfamilie “Hemden” zuordnet,  werden diese Attribute mit dem Produkt automatisch verknüpft und werden von den Nutzern folgende Attribute abgefragt: Geschlecht, Größe, Farbe, Kragenweite usw. (abhängig davon, welche Attribute der Produktfamilie “Hemden” zugeordnet sind). Deshalb hat die richtige Konfiguration von Produktfamilien sehr wichtige Bedeutung für die Endqualität der Produktinformationen. Für nähere Informationen dazu lesen Sie den Artikel [“Wie kann man die Produktfamilien erstellen?”\](./wie-kann-man-die-produktfamilien-erstellen.md).
 
 Produktattribute können mit den Produkten auch direkt verlinkt werden, diese sind dann Pflichtfelder für ein Produkt. Diese Attribute hat das Produkt zusätzlich zu denen, die von der Produktfamilie vererbt wurden. Falls keine Produktfamilie zu einem Produkt zugeordnet ist, wird dieses nur über solche Attribute verfügen, die ihm direkt zugeordnet worden sind.
 
@@ -60,7 +60,7 @@ oder über Editieren des Produktes:
 
 ![](../../_assets/how-tos/produktbeschreibung-in-6-schritten/image45.png)
 
-Für nähere Informationen über Attribute lesen Sie bitte die Dokumentation \[“Attribute”\] (https://wwwwwwwwwwww).
+Für nähere Informationen über Attribute lesen Sie bitte die Dokumentation [“Attribute”](https://github.com/atrocore/atropim-docs/blob/master/en/user-guide/attributes.md).
 
 ## Schritt 4: Fügen Sie Bilder und andere Assets hinzu
 
@@ -94,7 +94,7 @@ Diese Funktion kann im Fall behilflich sein, wenn Sie bestimmten Handelspartnern
 
 Die Produktassoziationen können ein wichtiges Marketingmittel für die Erhöhung Ihres Umsatzes sein, da hierbei neben dem Hauptprodukt noch zusätzliche Produkte angeboten werden. Die Assoziation ist eine bestimmte Art von Beziehung zwischen den Produkten; die benötigten Beziehungen kann jeder Nutzer für sich selbst festlegen, z.B. Cross- und Up-Selling.
 
-Man kann bestehende vorkonfigurierte Assoziationen nutzen oder neue Assoziationen erstellen. Die Assoziationen können die Effektivität und Konversionsrate verbessern. Für nähere Informationen lesen Sie \[“Wie kann man das System richtig konfigurieren? – Assoziationen konfigurieren”\] (https://wwwwwwwwww).
+Man kann bestehende vorkonfigurierte Assoziationen nutzen oder neue Assoziationen erstellen. Die Assoziationen können die Effektivität und Konversionsrate verbessern. Für nähere Informationen lesen Sie [“Wie kann man das System richtig konfigurieren?”](./erste-schritte.md#assoziationen-konfigurieren).
 
 Im AtroPIM kann man sowohl einseitige (das Produkt A ist mit dem Produkt B assoziiert, aber nicht umgekehrt) als auch zweiseitige Assoziationen erstellen (das Produkt A und das Produkt B sind miteinander assoziiert). Bei der zweiseitigen Assoziation gibt es auch die Möglichkeit, verschiedene Assoziationstypen zwischen den Produkten anzugeben.
 
@@ -116,4 +116,4 @@ Im AtroPIM ist es möglich, einen oder mehrere Kategoriebäume zu nutzen, die mi
 
 Über die Zugehörigkeit zu einem Kategoriebaum wird automatisch bestimmt, zu welchen Kanälen das Produkt zugeordnet ist. Ein Kategoriebaum kann mehreren Kanälen zugeordnet sein.
 
-Für nähere Informationen lesen Sie den Artikel \[“Wie kann man die Produkte kategorisieren?”\] (https://wwwwwwwwwww).
+Für nähere Informationen lesen Sie den Artikel [“Wie kann man die Produkte kategorisieren?”](./wie-kann-man-die-produkte-kategorisieren.md).

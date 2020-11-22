@@ -82,7 +82,7 @@ Der Nutzer hat die Möglichkeit, die Reihenfolge der Bilder mittels Drag-and-Dro
 
 ### Metadaten für Bilder
 
-Der Nutzer hat zudem die Möglichkeit, für jedes Asset seine Metadaten einzufügen. Diese sind über die `Administration` für die Entität Asset Relation über den `Entity Manager` konfigurierbar.
+Der Nutzer hat zudem die Möglichkeit, für jedes Asset seine Metadaten zu editieren. Diese sind über die `Administration` für die Entität Asset Relation über den `Entity Manager` konfigurierbar.
 
 ### Scope für Bilder
 

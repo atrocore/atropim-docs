@@ -30,7 +30,7 @@ Um ein Team zu erstellen, muss der Administrator auf `Administration` → `Teams
 
 Die Erstellung von qualitativen Produktbeschreibungen erfordert die Zusammenarbeit zwischen verschiedenen Teams.
 
-Damit der Nutzer, der zu einem bestimmten Team gehört, den Zugang zu einem bestimmten Eintrag hat, muss er den Zugang zu dieser Entität auf der Teamebene haben. Dabei muss dieses Team diesem Eintrag zugeordnet werden. Wenn z.B. die Mitglieder von zwei Teams den Zugang zu einem bestimmten Eintrag benötigen, muss man den Zugang für die beiden Teams freigeben. Damit Teams den Einträgen nach bestimmten Merkmalen automatisch zugeordnet werden, ist eine zusätzliche Programmierung erforderlich.
+Damit der Nutzer, der zu einem bestimmten Team gehört, den Zugang zu einem bestimmten Eintrag hat, muss er den Zugang zu dieser Entität auf der Teamebene haben. Dabei muss dieses Team diesem Eintrag zugeordnet werden. Damit Teams den Einträgen nach bestimmten Merkmalen automatisch zugeordnet werden, ist eine zusätzliche Programmierung erforderlich.
 
 Durch eine korrekte Einstellung erhalten Ihre Mitarbeiter und Teams die Zugänge nur zu den Entitäten und Feldern, die sie für Erfüllung ihrer Aufgaben benötigen. Das ermöglicht, die Arbeit Ihrer Mitarbeiter optimal zu organisieren und deren Effizienz zu erhöhen.
 

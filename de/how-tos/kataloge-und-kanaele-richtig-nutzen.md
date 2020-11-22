@@ -10,8 +10,6 @@ Kanäle sind Enddestinationen für Ihre Produktinformationen. Produkte können d
 
 Als Kanäle können Onlineshops, Marketplaces, Apps, Druckkataloge und andere Anwendungen gelten. An einen bestimmten Kanal werden alle kanalspezifischen Produktinformationen übergeben, die für diesen Kanal extra angegeben sind, und auch allgemeine Produktinformationen, die für alle Kanäle gemeinsam sind.
 
-Somit bestimmen die Kataloge die Produkte, die exportiert werden sollen, und Kanäle – die genauen Informationen, die für diese Produkte zu übertragen sind.
-
 ## Erstellung von Katalogen
 
 Um einen neuen Katalog zu erstellen, muss man auf die Entitätsseite der Kataloge wechseln und auf den Button `Erstellen` klicken.

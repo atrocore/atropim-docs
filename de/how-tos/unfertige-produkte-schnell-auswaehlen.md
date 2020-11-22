@@ -46,7 +46,7 @@ Durch die Nutzung der Optionen `Add Filter` und `Add Attribute Filter` kann man 
 
 ## Nutzung von Dashboards
 
-Für die schnelle Navigation zu Produkten, die noch zu bearbeiten sind, empfehlen wir auch, das Dashboard zu nutzen. Zur Bequemlichkeit kann man einstellen, dass auf dem Dashboard das Dashlet `General Statistics` angezeigt wird. Hier sind alle zusammengefassten Informationen über Ihre Produkte anzusehen. Auf diesem Dashlet werden auch die Informationen nach eingebauten Filtern angezeigt. Um auf die benötigte Produktannahme zu überzugehen, muss man einfach auf die entsprechende Position im Dashlet klicken.
+Für die schnelle Navigation zu Produkten, die noch zu bearbeiten sind, empfehlen wir auch, das Dashboard zu nutzen. Zur Bequemlichkeit kann man einstellen, dass auf dem Dashboard das Dashlet `General Statistics` angezeigt wird. Hier sind alle zusammengefassten Informationen über Ihre Produkte anzusehen. Auf diesem Dashlet werden auch die Informationen nach eingebauten Filtern angezeigt. Um die jeweiligen Produkte zu sehen, muss man einfach auf die entsprechende Position im Dashlet klicken.
 
 ![](../../_assets/how-tos/unfertige-produkte-schnell-auswaehlen/image22.png)
 

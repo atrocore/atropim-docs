@@ -26,7 +26,7 @@ Für nähere Informationen zur Erstellung und Konfiguration der Produktfamilien 
 In AtroPIM kann man die Produkteigenschaften auf zwei Weisen abspeichern:
 
 -   Über Produktfelder (Felder der Entität Produkte) – können auch als Metadata verwendet werden.
--   Über Produktattribute – zusätzliche Entität, die mit den Produkten über eine many-to-one Beziehung verknüpft ist.
+-   Über Produktattributwerte – zusätzliche Entität, die mit den Produkten über eine many-to-one Beziehung verknüpft ist.
 
 Der Nutzer kann eine beliebige Anzahl von Produktattributen erstellen. Produktfelder kann nur der Administator über den `Entity Manager` erstellen. Der Hauptunterschied besteht darin, dass alle Produkte identische Produktfelder haben, aber unterschiedliche Produktattribute.
 

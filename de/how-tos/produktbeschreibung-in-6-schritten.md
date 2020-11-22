@@ -17,7 +17,7 @@ In diesem Artikel werden wir die Schritte zur Erstellung einer qualitativen Prod
 
 ## Schritt 1: Erstellen Sie eine richtige Produktfamilie
 
-Für ein neu erstelltes Produkt kann man die Produktfamilie angeben, damit die benötigten auszufüllenden Produktattribute mit dem Produkt verlinkt werden. Vor der Erstellung der neuen Produkte muss man sich davon überzeugen, dass alle notwendigen Produktfamilien erstellt und richtig konfiguriert sind – somit vermeiden Sie eine wiederholte Erstellung.
+Für ein neu erstelltes Produkt kann man die Produktfamilie angeben, damit die benötigten auszufüllenden Produktattribute mit dem Produkt verlinkt werden. Vor der Erstellung der neuen Produkte muss man sich davon überzeugen, dass alle notwendigen Produktfamilien erstellt und richtig konfiguriert sind.
 
 Für nähere Informationen zur Erstellung und Konfiguration der Produktfamilien lesen Sie den Artikel [Wie kann man die Produktfamilien erstellen?](./wie-kann-man-die-produktfamilien-erstellen.md). 
 

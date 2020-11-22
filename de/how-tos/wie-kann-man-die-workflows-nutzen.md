@@ -66,7 +66,7 @@ Der Administrator kann die verfügbaren Statuswerte und ihre Anordnung im `Entit
 
 Diese Werte können an eine bestimmte Phase des Workflows angebunden sowie auch völlig unabhängig davon sein. Wenn z.B. die Produktbeschreibung  vorbereitet ist (Status: `Prepared`), müssen alle Werte im Feld `ToDos` entfernt werden. Das Feld `ToDos` kann z.B. den Wert `Zu taggen` beinhalten, der bedeutet, dass dieses Produkt noch mit Tags zu versehen ist.
 
-`ToDos`, wie auch `Status`, werden bei der Produktbeschreibung behilflich sein, weil sie den Zustand der Produktbeschreibung ausführlicher als der Produktstatus charakterisieren.
+`ToDos` sind bei der Produktbeschreibung behilflich, weil sie den Zustand der Produktbeschreibung ausführlicher als der Produktstatus charakterisieren.
 
 Die Nutzer können die Produkte nach `ToDos` filtern. Dafür muss man das Feld `ToDos` bei den Filtern auswählen und in diesem Feld die Werte eingeben, nach denen gesucht werden muss, und auf den Suchbutton klicken. 
 

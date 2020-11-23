@@ -41,4 +41,4 @@ Unnecessary attributes can be removed from the product family after they have be
 
 For example, if you have received a new clothing collection that should use a new attribute, eg “Style”, which was not available in the old collections, you can create a new product family “Clothing New” based on the product family “Clothing” and add this attribute to the new product family as a mandatory attribute.
 
-For more information on the configuration of the attributes that must belong to a certain product family, read the article [“How to create the product attributes?”](Https: // wwwwwwwwwwwww).
+For more information on the configuration of the attributes that must belong to a certain product family, read the article [“How to create the product attributes?”](./how-to-create-the-product-attributes.md).

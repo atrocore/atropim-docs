@@ -28,7 +28,7 @@ With AtroPIM each user can configure the relationship types he intends to use hi
 - Is part of
 - etc.
 
-For more information on creating product associations, read the article [“How to create a full and qualitative product description in 6 steps.”](./product-description-in-6-steps.md#step-5-enter-associated-products).
+For more information on creating product associations, read the article: [“How to create a full and qualitative product description in 6 steps.”](./product-description-in-6-steps.md#step-5-enter-associated-products).
 
 ## Configure product families
 

@@ -12,7 +12,7 @@ A product attribute determines a certain property of a product. Thanks to the ty
 
 AtroPIM has 14 attribute types. The use of attribute types is necessary for better typing and corresponding validation of the data in the system. For more information on attributes and their types, please read the [documentation](https://github.com/atrocore/atropim-docs/blob/master/en/user-guide/attributes.md).
 
-For more information on configuring the product attributes, read the article:  [“How can you create the product attributes?”](Https: // wwwwwwwwwwwwwww).
+For more information on configuring the product attributes, read the article:  [“How to create the product attributes?”](./how-to-create-the-product-attributes.md).
 
 ## Configure associations 
 
@@ -28,13 +28,13 @@ With AtroPIM each user can configure the relationship types he intends to use hi
 - Is part of
 - etc.
 
-For more information on creating product associations, read the article [“How to create a full and qualitative product description in 6 steps. Step 5. ”](Https: // wwwwwwwwwwwwwwww).
+For more information on creating product associations, read the article [“How to create a full and qualitative product description in 6 steps.”](./product-description-in-6-steps.md#step-5-enter-associated-products).
 
 ## Configure product families
 
 The definition of a product family is the first step in segmenting the user's product range. You need product families in order to unify the descriptions of the products of the same nature. Product families determine which attributes a product from this product family should have.
 
-For more information on the configuration of the product families, read the article: [“How to create the product families?” ](Https: // wwwwwwwwwwwwww).
+For more information on the configuration of the product families, read the article: [“How to create the product families?” ](./how-to-create-the-product-families.md).
 
 ## Configure categories
 
@@ -44,7 +44,7 @@ The biggest difference between categories and product families is that a product
 
 By assigning a product to a certain category, the channel to which the product data is to be transferred can also be determined.
 
-For more information on product categorization, read the article: [“How to configure the categories?”](Https: // wwwwwwwwwwwwwwwww). 
+For more information on product categorization, read the article: [“How to configure the categories?”](./how-to-configure-the-categories.md). 
 
 ## Configure catalogs and channels
 
@@ -52,4 +52,4 @@ Catalogs can be used in the system to manage different product ranges, catalogs 
 
 Channels are the destinations for product information; these can be, for example: creation of a print catalog, online stores, marketplaces, etc. The use of the channels enables an effective implementation of your multichannel or omni-channel strategy.
 
-For more information on the configuration of the product families, read the article: [“How to use the catalogs and channels correctly?”](Https: // wwwwwwwwwwww). 
+For more information on the configuration of the product families, read the article: [“How to use the catalogs and channels correctly?”](./how-to-use-the-catalogs-and-channels.md). 

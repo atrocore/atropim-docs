@@ -4,7 +4,7 @@ Die Erstellung der qualitativen und vollwertigen Produktbeschreibungen erfordert
 
 Unter einem Workflow verstehen wir die aufeinanderfolgende und parallele Erfüllung bestimmter Aufgaben, die zur Erreichung eines Zustandes (dies kann z.B. der Produktstatus sein) führen. Ein Workflow besteht somit aus Zuständen und Übergängen zwischen ihnen. Erfolgt der Übergang, wird ein neuer Zustand erreicht. Jeder Anwender von AtroPIM kann seine spezifischen Bedürfnisse mithilfe von Workflows umsetzen. Beliebige Arbeitsprozesse können damit abgebildet werden.
 
-![](../../_assets/how-tos/wie-kann-man-die-workflows-nutzen/image44.png) 
+![](../../_assets/how-tos/how-to-use-the-workflows/image44.png) 
 
 Für die Automatisierung der Workflow-Prozesse bieten wir ein spezielles Workflows Modul, das auf der [Symfony Workflow Komponente](https://symfony.com/doc/current/components/workflow.html) basiert. Aktuell werden die notwendigen Workflows auf dem Niveau der Programmierung erstellt. Mit der Zeit werden wir die Konfiguration von Workflows über die Benutzeroberfläche ermöglichen.
 
@@ -20,7 +20,7 @@ In unserem Beispiel betrachten wir ein einfaches Workflow, das für die Mehrheit
 -   `ToDos` (von Typ `Multi-Enum`) – um die noch offene Aufgaben abzubilden.
 -   `Channels` (von Typ `Multi-Enum`) – um die Kanäle zu markieren, über welche die Produktbeschreibung bereits veröffentlicht ist.
 
-![](../../_assets/how-tos/wie-kann-man-die-workflows-nutzen/image31.png)
+![](../../_assets/how-tos/how-to-use-the-workflows/image31.png)
 
 Aus dem Flowchart ist es ersichtlich, dass der übliche Workflow-Ablauf folgendermaßen aussieht: Draft → In Progress → Prepared → Reviewed → Ready → Published. Falls beim Review festgestellt wird, dass irgendetwas mit den Produktdaten nicht in Ordnung ist, wird der Produktstatus auf `Rejected` gesetzt. Alle möglichen Übergänge sind mithilfe von Pfeilen markiert.
 
@@ -48,7 +48,7 @@ Im System sind folgende Product Status standardmäßig eingerichtet:
 -   `Not Ready` – die Produktbeschreibung muss weiter bearbeitet werden,
 -   `Ready` – die Produktbeschreibung ist bereit für die Veröffentlichung. 
 
-![](../../_assets/how-tos/wie-kann-man-die-workflows-nutzen/image36.png)
+![](../../_assets/how-tos/how-to-use-the-workflows/image36.png)
 
 Der Produktstatus hilft dabei, den Prozess der Vorbereitung von Produktbeschreibungen zu kontrollieren.
 
@@ -56,7 +56,7 @@ Mit den Filtern kann jeder Nutzer nach dem entsprechenden Status die Produkte au
 
 Für die Filterung nach einem bestimmten Status muss man in den Filtern `Product Status` auswählen, den entsprechenden Wert eingeben und auf den Suchbutton klicken. Um die Filtereinstellungen zurückzusetzen, muss man auf den Button `Reset` klicken – somit werden alle Filter- und Sortierungseinstellungen zurückgesetzt. Wenn es nötig ist, nur einen von einigen Filtern zu entfernen, muss man auf `x` neben dem nötigen Filter und nachher auf den Button `Search` klicken. 
 
-![](../../_assets/how-tos/wie-kann-man-die-workflows-nutzen/image43.png)
+![](../../_assets/how-tos/how-to-use-the-workflows/image43.png)
 
 Der Administrator kann die verfügbaren Statuswerte und ihre Anordnung im `Entity Manager` ändern. Wir würden empfehlen, nicht zu viele Status zu erstellen, sondern die für die wichtigsten Zustände der Vorbereitung Ihrer Produktbeschreibungen. Die Statuswerte sollen eindeutig sein – somit vermeiden Sie Probleme mit der Kontrolle der Vorbereitung von Produkten zur Veröffentlichung und Verwirrung unter den Mitarbeitern. 
 
@@ -70,7 +70,7 @@ Diese Werte können an eine bestimmte Phase des Workflows angebunden sowie auch 
 
 Die Nutzer können die Produkte nach `ToDos` filtern. Dafür muss man das Feld `ToDos` bei den Filtern auswählen und in diesem Feld die Werte eingeben, nach denen gesucht werden muss, und auf den Suchbutton klicken. 
 
-![](../../_assets/how-tos/wie-kann-man-die-workflows-nutzen/image13.png)
+![](../../_assets/how-tos/how-to-use-the-workflows/image13.png)
 
 Wenn das Feld `ToDos` bei den Filtern nicht angezeigt wird, soll der Administrator seine Anzeige als Filter einstellen. Der Administrator kann die Liste und Anordnung der möglichen ToDos-Werte ändern. Wir würden empfehlen, nicht zu viele Werte zu erstellen und diesen maximal kurze Namen zu geben, damit diese nicht zu viel Platz einnehmen. Es ist empfehlenswert, wenn möglich die Abkürzungen zu nutzen, die Namen müssen maximal eindeutig sein. 
 

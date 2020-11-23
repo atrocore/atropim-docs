@@ -1,6 +1,6 @@
 # How to select unfinished products quickly?
 
-You can read how to create a qualitative product description in the article [“How to create a complete and qualitative product description in 6 steps”](https: // wwwwwwwwwww).
+You can read how to create a qualitative product description in the article [“How to create a complete and qualitative product description in 6 steps”](./product-description-in-6-steps.md).
 
 Unfortunately, in practice, it is not possible to describe a product immediately from start to finish, as this process is not linear and several employees can take part in it simultaneously or one after the other. Therefore every user needs the possibility to quickly select the products which on his part are not yet of sufficient quality and which can still be processed.
 
@@ -58,7 +58,7 @@ If you don't have this dashlet, click the `✚` icon in the top right corner of 
 
 The product has the `Product Status` field, which shows the extent to which the product is prepared for publication. Each system user can configure their own status according to their product workflow. These statuses represent the readiness of the product or the current state of the description, if it is provided for in your product workflow.
 
-By filtering by status, each user can understand what information needs to be provided for filtered products. For more information about the use of status and other fields of type `Enum` or ` Multi-Enum` read our article [“How can you use the workflows?“](Https: // wwwwwwwwwwwwwwwww).
+By filtering by status, each user can understand what information needs to be provided for filtered products. For more information about the use of status and other fields of type `Enum` or ` Multi-Enum` read our article [“How can you use the workflows?“](./how-to-use-the-workflows.md).
 
 The use of multi-enum fields, e.g. `Tags`, is a very flexible tool for specifying certain product or workflow characteristics. Filtering by `tags` makes it possible to filter products according to a certain characteristic in order to complete their information.
 
@@ -68,8 +68,8 @@ The use of filters by `tags` and ` status` (or similar fields) helps different e
 
 The use of `Enum` and `Multi-Enum` fields makes the work of your employees easier and helps to find incomplete, finished and other required products faster.
 
-## Use of values ​​completeness
+## Use of values completeness
 
 We recommend that you use our Completeness module, which enables you to check the degree to which mandatory fields have been filled in. For more information about the use and setting of the module, read the [module description](https://atropim.com/de/shop/completeness).
 
-After the module has been installed, percentage information about the degree of completion of mandatory fields and attributes is displayed on the product page, for on each existing channel. The completeness values ​​can also be viewed on the product list page; they can also be used as configured filters. This module simplifies your work and saves your time.
+After the module has been installed, percentage information about the degree of completion of mandatory fields and attributes is displayed on the product page, for on each existing channel. The completeness values can also be viewed on the product list page; they can also be used as configured filters. This module simplifies your work and saves your time.

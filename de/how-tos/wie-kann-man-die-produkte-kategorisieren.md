@@ -8,7 +8,7 @@ Vor der Produktkategorisierung muss man sich davon überzeugen, dass alle nötig
 
 Um das Produkt einer oder mehreren Kategorien zuzuordnen, muss man im Panel `Product Categories` auf das Icon `▼` und dann auf `Select` klicken. Im geöffneten Popup muss man benötigte Kategorien auswählen und auf den Button `Select` klicken. Es ist empfehlenswert, den Code der Kategorie zu beachten, da die Kategorienamen verschiedener Bäume dupliziert werden können.
 
-![](../../_assets/how-tos/wie-kann-man-die-produkte-kategorisieren/image21.png)
+![](../../_assets/how-tos/how-to-categorize-the-products/image21.png)
 
 Das Produkt wird automatisch den Kanälen zugeordnet, denen der Kategoriebaum der ausgewählten Kategorie zugeordnet ist.
 
@@ -16,14 +16,14 @@ Das Produkt wird automatisch den Kanälen zugeordnet, denen der Kategoriebaum de
 
 Man kann neue Produkte einer Kategorie direkt auf der Kategorieseite hinzufügen. Dafür muss man im Panel `Category Products` auf das Icon `▼` klicken und alle Produkte auswählen, die hinzugefügt werden sollen.
 
-![](../../_assets/how-tos/wie-kann-man-die-produkte-kategorisieren/image14.png)
+![](../../_assets/how-tos/how-to-categorize-the-products/image14.png)
 
 ## Massenhafte Ergänzung, Änderung oder Entkopplung der Kategorien für ausgewählte Produkte
 
 Auf der Produktlistenseite kann man für ausgewählte Produkte (z.B. nach der Filterung) dank der Funktionen `Add Relation` und `Remove Relation` eine Beziehung zu mehreren Kategorien zugleich hinzufügen oder löschen.
 
-![](../../_assets/how-tos/wie-kann-man-die-produkte-kategorisieren/image33.png)
+![](../../_assets/how-tos/how-to-categorize-the-products/image33.png)
 
 Dafür klickt man auf `Add Relation` oder `Remove Relation`, wählt im geöffneten Popup im Feld `Select Entity` `Product Categories` aus und danach die notwendigen Kategorien. Als Ergebnis wird die Beziehung von der gewählten Kategorie zu den vorausgewählten Produkten hinzugefügt oder gelöscht.
 
-![](../../_assets/how-tos/wie-kann-man-die-produkte-kategorisieren/image4.png)
+![](../../_assets/how-tos/how-to-categorize-the-products/image4.png)

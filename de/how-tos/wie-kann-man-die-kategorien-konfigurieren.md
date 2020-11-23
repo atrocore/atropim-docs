@@ -8,15 +8,15 @@ Für jede Kategorie kann nur eine Parent-Kategorie eingegeben werden. Mithilfe s
 
 Werden bei den Kategorien mehrere Wurzelkategorien erstellt, wird der Nutzer mit mehreren Kategoriebäumen arbeiten.
 
-![](../../_assets/how-tos/wie-kann-man-die-kategorien-konfigurieren/image58.png)
+![](../../_assets/how-tos/how-to-configure-the-categories/image58.png)
 
 In der Ansicht eines Kategoriebaums (Ansicht `Tree View`) kann man alle Kategoriebäume übersichtlich sehen.
 
-![](../../_assets/how-tos/wie-kann-man-die-kategorien-konfigurieren/image40.png)
+![](../../_assets/how-tos/how-to-configure-the-categories/image40.png)
 
 Mithilfe der Drag-and-Drop Funktion kann man schnell die Änderungen bei der Struktur eines Baums vornehmen.
 
-![](../../_assets/how-tos/wie-kann-man-die-kategorien-konfigurieren/image18.png)
+![](../../_assets/how-tos/how-to-configure-the-categories/image18.png)
 
 Für eine bessere Benutzerfreundlichkeit und Beschleunigung der Customer Journey empfehlen wir, nicht mehr als 3 Kategorieebenen zu erstellen. Natürlich hat jeder Anwender seine spezifischen Anforderungen, aber man muss Folgendes berücksichtigen: je einfacher der Kategoriebaum ist, desto wahrscheinlicher ist es, dass der Kunde genau das findet, wonach er sucht.
 

@@ -107,7 +107,7 @@ If it is necessary that the translator can translate the relevant product attrib
 - Create the user for the translator in the system and assign the role `translator` to this user.
 - Set this role the authorization `Edit` for the entity product attribute by selecting the access level ` own`.
 - Make sure that the translator is set as an assigned user for all attribute entries for translations.
-- Enabling the translator to read all the product attributes so that they can see the values ​​to be translated.
+- Enabling the translator to read all the product attributes so that they can see the values to be translated.
 
 #### Example 2:
 
@@ -168,11 +168,11 @@ Although the user Bill belongs to the team that is specified for both products, 
 
 ### Field level permissions
 
-AtroPIM offers among other things the possibility to configure the access rights on the field level of a certain entity. To do this, when editing the role on the `Field Level` panel, click on the` ✚` icon after the relevant entity. A popup is opened with the fields belonging to this entity. After selecting the field, you can set access to read or edit this field by specifying `yes` or` no` for the required action.
+AtroPIM offers among other things the possibility to configure the access rights on the field level of a certain entity. To do this, when editing the role on the `Field Level` panel, click on the `✚` icon after the relevant entity. A popup is opened with the fields belonging to this entity. After selecting the field, you can set access to read or edit this field by specifying `yes` or` no` for the required action.
 
 ![](../../_assets/how-tos/how-to-organize-effective-teamwork/image35.png) 
 
-This function is necessary if the user needs access to certain entries, but is not allowed to change the values ​​in other fields (e.g. to avoid accidental changes) or to see them. This function is particularly useful when different people are responsible for filling in various fields. For example, if you have an employee who only needs to enter technical details on the product page, it is advisable to restrict his permissions to edit the `SKU` or` Product Status` fields.
+This function is necessary if the user needs access to certain entries, but is not allowed to change the values in other fields (e.g. to avoid accidental changes) or to see them. This function is particularly useful when different people are responsible for filling in various fields. For example, if you have an employee who only needs to enter technical details on the product page, it is advisable to restrict his permissions to edit the `SKU` or` Product Status` fields.
 
 Before setting the role, you must carefully and thoroughly analyze which tasks a particular user has to perform and which access rights he should be given.
 

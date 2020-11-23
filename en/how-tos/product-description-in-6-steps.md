@@ -19,7 +19,7 @@ In this article we will detail the steps to create a qualitative product descrip
 
 For a newly created product, you can specify the product family so that the required product attributes to be filled in can be linked to the product. Before creating the new products, you have to make sure that all the necessary product families have been created and configured correctly.
 
-For more information on creating and configuring product families, read the article ["How can you create product families?"](https: // wwwwwwwwwwwwwwww).
+For more information on creating and configuring product families, read the article ["How to create product families?"](./how-to-create-the-product-families.md).
 
 ## Step 2: Create a new product
 
@@ -32,11 +32,11 @@ The user can create any number of product attributes. Product fields can only be
 
 To create a product, go to the Product entity and click on `Create Product` (top right). A pop-up window is displayed in which you should fill in the mandatory fields for the new product.
 
-! [] (../../_ assets / how-tos / product description-in-6-steps / image52.png)
+![](../../_assets/how-tos/product description-in-6-steps/image52.png)
 
 The product fields can contain the information that is important for system users but not for end customers. This can be ID, SKU, alternative names of the products, etc.
 
-## Step 3: Enter the attribute values ​​of the product
+## Step 3: Enter the attribute values of the product
 
 The attribute (the property) - is a characteristic of the product. These are, for example, “Style” for shirts, “Diagonal” for screens and “Print performance” for printers. The attributes can be of a functional, emotional or aesthetic nature and describe certain properties of the product, e.g. weight, height, length, width, color, etc.
 
@@ -48,11 +48,11 @@ or directly.
 
 ![](../../_assets/how-tos/product-description-in-6-steps/image3.png)
 
-For example, if you assign a product to the “shirts” product family, these attributes are automatically linked to the product and the users are asked to fill the following attributes: gender, size, color, collar size, etc. (depending on which attributes are assigned to the product family  “shirts”). Therefore the correct configuration of product families is very important for the final quality of the product information. For more information, read the article [“How to create the product families?”](Https: // wwwwwwwwwww).
+For example, if you assign a product to the “shirts” product family, these attributes are automatically linked to the product and the users are asked to fill the following attributes: gender, size, color, collar size, etc. (depending on which attributes are assigned to the product family  “shirts”). Therefore the correct configuration of product families is very important for the final quality of the product information. For more information, read the article [“How to create the product families?”](./how-to-create-the-product-families.md).
 
 Product attributes can also be linked directly to the products; these are then mandatory fields for a product. The product has these attributes in addition to those inherited from the product family. If no product family is assigned to a product, it will only have attributes that have been assigned to it directly.
 
-After the product attributes have been linked to the product, the attribute values ​​can be entered. This can be done in two ways, via the context menu of an attribute:
+After the product attributes have been linked to the product, the attribute values can be entered. This can be done in two ways, via the context menu of an attribute:
 
 ![](../../_assets/how-tos/product-description-in-6-steps/image32.png)
 
@@ -60,7 +60,7 @@ or by editing the product:
 
 ![](../../_assets/how-tos/product-description-in-6-steps/image45.png)
 
-For more information about attributes, please read the documentation [“Attribute”](https: // wwwwwwwwwwww).
+For more information about attributes, please read the documentation [“Attribute”](https://github.com/atrocore/atropim-docs/blob/master/en/user-guide/attributes.md).
 
 ## Step 4: add pictures and other assets
 
@@ -74,7 +74,7 @@ The product images are displayed in the Asset Relations panel. The assets are au
 
 Here you can upload new assets (1) or select the assets that already exist in the DAM (2). You can upload files of various formats and sizes: csv, png, md, jpg, zip and other files that are allowed by the configuration. Maximum file size can also be configured. For convenience, the ability to select the asset according to the code that is unique to each asset has been added.
 
-It is also possible to assign different roles to the assets. The possible values ​​can be configured via the Entity Manager. The role Main should be assigned to the main screen. It is displayed in the `Product Preview` panel:
+It is also possible to assign different roles to the assets. The possible values can be configured via the Entity Manager. The role Main should be assigned to the main screen. It is displayed in the `Product Preview` panel:
 
 ![](../../_assets/how-tos/product-description-in-6-steps/image46.png)
 
@@ -94,7 +94,7 @@ This function can be helpful if you want to give certain trading partners (among
 
 The product associations can be an important marketing tool for increasing your sales, as additional products are offered in addition to the main product. The association is a certain type of relationship between the products; each user can define the required relationships for himself, e.g. cross- and up-selling.
 
-You can use existing pre-configured associations or create new associations. The associations can improve the effectiveness and conversion rate. For more information, read [“How to properly configure the system? - Configure associations”](https: // wwwwwwwwww).
+You can use existing pre-configured associations or create new associations. The associations can improve the effectiveness and conversion rate. For more information, read [“First steps - how to configure the system correctly?”](./first-steps-how-to-configure-the-system.md#configure-associations).
 
 In AtroPIM you can create unilateral (product A is associated with product B, but not vice versa) as well as bilateral associations (product A and product B are associated with each other). With two-way association, there is also the option of specifying different types of association between the products.
 
@@ -116,4 +116,4 @@ In AtroPIM it is possible to use one or more category trees that are automatical
 
 By belonging to a category tree, it is automatically determined which channels the product is assigned to. A category tree can be assigned to several channels.
 
-For more information, read the article [“How to categorize the products?”](Https: // wwwwwwwwwww).
+For more information, read the article [“How to categorize the products?”](./how-to-categorize-the-products.md).

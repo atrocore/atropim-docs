@@ -34,7 +34,7 @@ It is also conceivable to change the authorizations of the users depending on th
 
 ## Use of the product status field
 
-`Product Status` is a field of type ` Enum` that has pre-configured values ​​in the system. These can be changed by an administrator.
+`Product Status` is a field of type ` Enum` that has pre-configured values in the system. These can be changed by an administrator.
 
 The field can be used differently depending on the requirements of the user. We would recommend using this field to display the status of a product.
 
@@ -58,21 +58,21 @@ For filtering according to a certain status you have to select `Product Status` 
 
 ![](../../_assets/how-tos/how-to-use-the-workflows/image43.png)
 
-The administrator can change the available status values ​​and their arrangement in the `Entity Manager`. We would recommend not creating too many statuses, but rather those for the most important states in the preparation of your product descriptions. The status values ​​should be clear - this will avoid problems with controlling the preparation of products for publication and confusion among employees.
+The administrator can change the available status values and their arrangement in the `Entity Manager`. We would recommend not creating too many statuses, but rather those for the most important states in the preparation of your product descriptions. The status values should be clear - this will avoid problems with controlling the preparation of products for publication and confusion among employees.
 
 ## Use of the ToDos field
 
-`ToDos` is a field of type ` Multi-Enum`. In contrast to the values ​​of the `Status` field, of which the product can only have one at a certain point in time, the` ToDos` field can have several values ​​at the same time that are not competing with each other. For example, a description can only have technical information, or only marketing information, or both.
+`ToDos` is a field of type ` Multi-Enum`. In contrast to the values of the `Status` field, of which the product can only have one at a certain point in time, the` ToDos` field can have several values ​​at the same time that are not competing with each other. For example, a description can only have technical information, or only marketing information, or both.
 
 These values ​​can be linked to a specific phase of the workflow and also be completely independent of it. For example, if the product description has been prepared (status: `Prepared`), all values ​​in the` ToDos` field must be removed. For example, the `ToDos` field can contain the value ` To be tagged`, which means that this product still needs to be tagged.
 
 `ToDos` help with the product description because they characterize the state of the product description in more detail than the product status.
 
-The users can filter the products by `ToDos`. To do this, you have to select the field `ToDos` for the filters and enter the values ​​in this field that are to be searched for and click on the search button.
+The users can filter the products by `ToDos`. To do this, you have to select the field `ToDos` for the filters and enter the values in this field that are to be searched for and click on the search button.
 
 ![](../../_assets/how-tos/how-to-use-the-workflows/image13.png)
 
-If the field `ToDos` is not displayed in the filters, the administrator should set it to be displayed as a filter. The administrator can change the list and arrangement of the possible ToDos values. We would recommend not to create too many values ​​and to give them names that are as short as possible so that they do not take up too much space. It is advisable to use the abbreviations if possible, the names must be as unique as possible.
+If the field `ToDos` is not displayed in the filters, the administrator should set it to be displayed as a filter. The administrator can change the list and arrangement of the possible ToDos values. We would recommend not to create too many values and to give them names that are as short as possible so that they do not take up too much space. It is advisable to use the abbreviations if possible, the names must be as unique as possible.
 
 The Multi-Enum fields help users to orientate themselves more easily in the large number of products and to do their work quickly and in a goal-oriented manner, without spending a lot of time looking for products with poor quality or incorrect descriptions. 
 
@@ -82,4 +82,4 @@ Any additional fields can be created in the system to help users organize their 
 
 In the proposed workflow, we recommend creating the `Channels` field of the ` Multi-Enum` type in order to store the information on which channel the corresponding description was published. 
 
-The administrator can create additional fields and specify the values ​​for them.
+The administrator can create additional fields and specify the values for them.

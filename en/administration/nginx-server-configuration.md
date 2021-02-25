@@ -1,4 +1,4 @@
 ## Nginx server configuration
 These instructions are supplementary to the [Server Configuration](server-configuration.md) guideline.
 
-Look also [here](https://github.com/atrocore/atrocore-docs/blob/master/en/administration/nginx-server-configuration.md).
+Nginx configuration can be found [here](https://github.com/atrocore/atrocore-docs/blob/master/en/administration/nginx-server-configuration.md).

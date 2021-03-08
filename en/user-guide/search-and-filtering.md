@@ -3,11 +3,42 @@
 Search and filtering allow you to quickly focus on the records you want to see. These sections are automatically available on each entity [list](./views-and-panels.md#list-view) or [plate](./views-and-panels.md#plate-view) view page:
 
 ![Search and filtering](../../_assets/user-guide/search-and-filtering/search-filter.jpg)
-*Search and filtering on the products list view page*
 
 Searching works on the current entity records, while filtering works also on the related records, which are configured by the administrator.
 
+## List View Search
+
 To perform a search operation, enter your search query into the corresponding field and hit the `Enter` key on your keyboard or click the `Search` button.
+
+Wildcards can be used for search, at any place in the search string, separately or in any combination.
+
+| **Character**    | **Use**                                           |
+| :--------------- | :------------------------------------------------ |
+| % or *           | Matches any number of characters, including zero  |
+| _                | Matches only one character                        |
+
+> Please consider, only the fields configured by the Administrator at "Text Filter Fields" for the current entity will be searched through.
+
+### Full-text Search
+
+> Fulltext search can be used if configured by the Administrator for the current entity.
+
+In Global Search full-text search is always applied for entities with enabled full-text search.
+
+If activated for the entity the full-text search is also applied when you search in the list view. Though it can be skipped for some search queries. Yet, it's possible to force a full-text usage by using prefix "ft:" in your search query, eg "ft: john".
+
+For InnoDB tables the following operators are available:
+
+| **Character**    | **Use**                                           |
+| :--------------- | :------------------------------------------------ |
+| +                | A leading plus sign indicates that this word must be present.        |
+| -                | A leading minus sign indicates that this word must not be present.   |
+| *                | Wildcard operator can be appended to the word to be affected.        |
+| "                | A phrase included in double quotes must be contained exactly as it was typed.|
+| (no operator)    | The word is optional, but the rows that contain it are rated higher. |
+
+
+## Filtering
 
 To filter your entity records, open the filter drop-down list and set the desired checkbox(es):
 
@@ -34,7 +65,7 @@ You can have one or more filters based on a certain field for all field types. T
   - Enum;
   - Related entities.
 
-## Logical Operators
+### Logical Operators
 
 The system behavior is different for the OR and AND logical operators:
 
@@ -43,7 +74,7 @@ The system behavior is different for the OR and AND logical operators:
 
 Logical operator NOR is directly not available, but can be set by defining specific filter criteria for almost each field type.
 
-## Available Filtering Criteria
+### Available Filtering Criteria
 
 Depending of the field type, you can apply the following filtering criteria:
 
@@ -111,7 +142,7 @@ Depending of the field type, you can apply the following filtering criteria:
 |                                             | None Of                | Related entity records, multiselect                        |
 | *Image, File, Attachment Multiple*          | –                      | Filtering for these field types is not possible  (for now) |
 
-## Automatic Search Mask Recognition *(in development)*
+### Automatic Search Mask Recognition *(in development)*
 
 AtroPIM has automatic search mask recognition. This can be considered as a quick search function, i.e. when you start typing, AtroPIM automatically determines the search mask type of your search string. Automatic search mask recognition is available for the following fields: Text, Number, Date, and Time.
 
@@ -129,7 +160,7 @@ After clicking on the search results, the appropriate filter will be set automat
 | Numbers, e.g. "123"     | Auto-increment, Currency, Integer, Float     | Is                          |
 | Date, e.g. "12.12.2018" | Date, DateTime                               | On                          |
 
-## Predefined Search Filters
+### Predefined Search Filters
 
 Predefined search filters are available in the drop-down menu on the left of the search field on any entity list view page:
 
@@ -139,7 +170,7 @@ To filter the records, select the desired checkbox or several checkboxes.
 
 To extend the list, please contact your developer.
 
-## Custom Search Filters
+### Custom Search Filters
 
 To save a custom search filter, select the `Add filter > 'desired filter'` option from the filtering drop-down list:
 
@@ -153,7 +184,7 @@ If needed, click the `X` button to remove the added filter.
 
 To extend the list of fields to be used for filtering, please, contact your administrator.
 
-## Custom Attribute Filters
+### Custom Attribute Filters
 
 AtroPIM supports the ability to filter [product](./products.md) records not only by field values, but also by [attribute](./attributes.md) values. This type of filtering is performed by values of the attributes that are linked to products. For your convenience, product attributes are grouped by product families and the `All` list contains all product attributes available in the system. 
 
@@ -165,7 +196,7 @@ To remove the attribute filter, click the `X` button next to it.
 
 Please, note that attribute filters are available for products only.
 
-## Templates
+### Templates
 
 You can create custom search filter templates. To do this, add the desired filters as described above and select the `Save filter` option from the filtering drop-down list:
 

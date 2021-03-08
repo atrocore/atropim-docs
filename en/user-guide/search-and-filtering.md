@@ -6,7 +6,7 @@ Search and filtering allow you to quickly focus on the records you want to see. 
 
 Searching works on the current entity records, while filtering works also on the related records, which are configured by the administrator.
 
-## List View Search
+## Search
 
 To perform a search operation, enter your search query into the corresponding field and hit the `Enter` key on your keyboard or click the `Search` button.
 

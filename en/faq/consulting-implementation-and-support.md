@@ -16,13 +16,11 @@ We offer a wide range of services that are directly and indirectly related to th
 You can purchase a “worry-free” package from us, we will never let you down!
 
 
-
 ## What options are there, what does it cost?
 
 We can offer you a free first consultation, contact us and we will make an appointment.
 
 Alternatively, if you would like to discuss your tasks and problems as well as the possible alternative solutions with the help of AtroPIM in more detail, we can offer you a workshop - via screen sharing, at our premises or at your location.
-
 
 
 ## How do you ensure that communication is correct throughout the project?
@@ -43,13 +41,11 @@ Not necessarily, thanks to modern communication technologies it is no longer nec
 ## Do I get a permanent contact person during the project?
 
 Yes, the project manager assigned to your project will be happy to assist you via email and phone. Please note that you will also be actively involved during the implementation phase. It is therefore particularly important for you to assign an internal project manager to the project.
-
   
 
 ## How long does it take to implement AtroPIM?
 
 The implementation of AtroPIM takes from four weeks. The time depends very much on how many individual requirements and special features you have. However, this deadline depends not only on us, but much more on you, because you have to participate in the project.
-
 
 
 ## How is the project implementation organized?

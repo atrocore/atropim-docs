@@ -32,7 +32,7 @@ Dank der serviceorientierten Softwarearchitektur können beliebige Wünsche prob
 
 ### AtroPIM basiert auf AtroCore
 
-AtroСore ist ein vollwertiges Ecosystem oder Plattform für die Entwicklung von Business Applications. Alle Module für AtroPIM werden automatisch auch mit anderen auf AtroCore- basierten Lösungen kompatibel sein und vice versa. Aktuell besteht die Möglichkeit, AtroPIM zusammen mit einem vollwertigen CRM in einer Instanz zu nutzen. Somit schafft AtroCore ein neues Software-Ökosystem für den Ausbau der Software und die Entwicklung von neuen Lösungen.
+AtroСore ist ein vollwertiges Ecosystem oder Plattform für die Entwicklung von Business Applications. Alle Module für AtroPIM werden automatisch auch mit anderen auf AtroCore- basierten Lösungen kompatibel sein und vice versa. Aktuell besteht die Möglichkeit, AtroPIM zusammen mit AtroDAM in einer Instanz zu nutzen. Somit schafft AtroCore ein neues Software-Ökosystem für den Ausbau der Software und die Entwicklung von neuen Lösungen.
 
   
 
@@ -89,8 +89,6 @@ AtroPIM ist eine wirklich innovative Lösung mit vielen Möglichkeiten für den 
 ## Kann man in AtroPIM mehr als nur Produktinformationen verwalten?
 
 Ja, AtroPIM ist eine flexible und konfigurierbare Business Application. Hier können beliebige Daten aufbewahrt und verwaltet werden. Nutzen Sie den Entity Manager, um die Ihnen noch fehlenden Entitäten einzurichten, diese können z.B. sein – Produktserien, Bestellungen, Verträge, Kundenstammdaten, Rechnungen etc.
-
-Wenn Sie auch Kundendaten verwalten wollen, nutzen Sie bitte unser CRM-Modul zusammen mit PIM in einer AtroCore-Instanz!
 
 
 
@@ -176,7 +174,6 @@ Es gibt viele Module für AtroPIM, auch solche, die nicht unbedingt mit einem PI
 Bei AtroPIM gibt es keine Nutzungseinschränkungen, die Lizenzbedingungen sind nur bei Premium-Modulen zu beachten.
 
 
-
 ## Warum gibt es nicht alle Übersetzungen im System, kann man diese ergänzen?
 
 Hauptsprache für AtroPIM ist Englisch. Es kann vorkommen, dass die Übersetzungen für die eine oder andere Sprache nicht vorhanden oder nicht vollständig vorhanden sind. Sie können die notwendigen Lokalisierungen in Ihrer Installation von AtroPIM über den Label Manager ergänzen und uns diese zukommen lassen, damit wir diese in den Core des Systems übernehmen können.
@@ -195,7 +192,7 @@ Die neuen Widgets können auch über die Installation von zusätzlichen Modulen 
 
 ## Was ist der Unterschied zwischen der Community Edition und der Enterprise Edition?
 
-Es gibt keine Enterprise Edition. AtroPIM gibt es nur in einer Edition, der frei verfügbaren “Community Edition”. “Enterprise Edition” ist die Bezeichnung für die AtroPIM “Community Edition” mit allen installierten Premium- Modulen.
+Es gibt keine Enterprise Edition. AtroPIM gibt es nur in einer Edition, der frei verfügbaren “Community Edition”. “Enterprise Edition” ist die Bezeichnung für die AtroPIM “Community Edition” mit allen installierten Premium-Modulen.
 
 AtroPIM wird auch nicht als “Enterprise Edition” verkauft. Jeder Kunde kann nur die Module aussuchen und kaufen, die er wirklich braucht, es gibt keinen Zwang.
 
@@ -233,17 +230,9 @@ AtroСore ist eine Plattform für die Entwicklung von Business Applications. Atr
 
 AtroPIM ist eine Lösung, die auf der AtroCore Plattform basiert und hat somit alle Eigenschaften und Funktionen, die durch die Plattform bereitgestellt werden. Das sind die allgemeinen Funktionen, die für eine beliebige Business-Anwendung denkbar wären.
 
-  
-
-![AtroCore](https://lh5.googleusercontent.com/N00DZdwpjD2ViDsYt7_YSfY7JygntPydQCWbxSmRNa4Zs7ZkmBeEj-G0D5CfB7fr2nf5yEy3V75Zjd6lx5Qv6OBd-2B64kA2-AZTujoftuEyAftE0Qwmbv-Z8eHpgVIb1BAUqxg-)
-
-  
-
 Technisch gesehen werden alle AtroPIM-Module für AtroCore entwickelt und werden somit auch mit anderen auf AtroCore-basierten Lösungen kompatibel sein.
 
-Es wird dem Anwender überlassen zu entscheiden, welche AtroCore-Anwendungen er zugleich in einer Instanz nutzen will. Aktuell besteht die Möglichkeit, AtroPIM zusammen mit einem vollwertigen CRM in einer Instanz zu nutzen.
-
-Außer AtroPIM ist uns keine andere Lösung bekannt, die ein CRM und PIM in einem System vereint.
+Es wird dem Anwender überlassen zu entscheiden, welche AtroCore-Anwendungen er zugleich in einer Instanz nutzen will. 
 
 
 

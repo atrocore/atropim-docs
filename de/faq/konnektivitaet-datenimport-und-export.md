@@ -20,8 +20,6 @@ Es gibt absolut keine Einschränkungen bei der Integration mit anderen Systemen.
 - Über automatischen Export und Import von Einträgen – über Import Feeds und Export Feeds (Import Feeds und Export Feeds-Module notwendig).
 
 
-
-
 ## Hat AtroPIM eine API?
 
 Ja, als eine Anwendung mit einer serviceorientierten Software-Architektur hat AtroPIM eine vollwertige REST API. Diese ist auch für benutzerdefinierte Entitäten und Felder nach Einrichtung sofort verfügbar.
@@ -36,10 +34,7 @@ Nein, seitens AtroPIM gibt es absolut keine Einschränkungen beim Datenaustausch
 
 ## Kann man Daten aus AtroPIM exportieren?
 
-Jeder Benutzer kann die Einträge, für die er berechtigt ist, exportieren, dabei wird das Format (CSV oder XLSX) oder der Datenumfang bestimmt (welche Felder zu exportieren sind – alle oder nur die ausgewählten). Die Einträge werden pro Entität exportiert – das heißt, wenn man bei den Produkten ist, werden die Produkteinträge exportiert, ohne Daten aus den abhängigen Entitäten wie Attribute, Kategorien, Assoziationen etc.
-
-Um kompliziertere Export-Szenarien umzusetzen, z.B. wenn die gesamten Produktkataloge inkl. aller dazugehörigen Informationen zugleich exportiert werden sollen, empfehlen wir, unser Export Feeds-Modul zu nutzen.
-
+Jeder Benutzer kann die Einträge, für die er berechtigt ist, exportieren, dabei wird das Format (CSV oder XLSX) oder der Datenumfang bestimmt (welche Felder zu exportieren sind – alle oder nur die ausgewählten). Die Einträge werden pro Entität exportiert.
 
 
 ## Kann man Daten in AtroPIM importieren?
@@ -47,8 +42,6 @@ Um kompliziertere Export-Szenarien umzusetzen, z.B. wenn die gesamten Produktkat
 Dank dem Import-Konfigurator kann der Administrator eine CSV-Datei mit Daten in jede Entität des Systems importieren. Dabei sind die Locale-Einstellungen und Feld-Mapping vorzunehmen, es können auch die Standardwerte für Spalten vorgegeben werden.
 
 Der Import kann pro Entität erfolgen -– d.h. wenn man bei den Produkten ist, werden die Produkteinträge importiert, ohne Daten für abhängige Entitäten wie Attribute, Kategorien, Assoziationen etc.
-
-Um kompliziertere Import-Szenarien umzusetzen, wenn z.B. die gesamten Produktkataloge inkl. aller dazugehörigen Informationen zugleich importiert werden sollen, empfehlen wir, unser Import Feeds-Modul zu nutzen.
 
   
 

@@ -7,13 +7,11 @@
 Ja, es ist möglich, die Layouts von Listen- und Detailseiten direkt aus dem Adminbereich mithilfe des Layout Managers anzupassen. Dabei können Sie über Drag-and-Drop nicht nur die anzuzeigenden Felder bestimmen, sondern auch deren Reihenfolge und die Zuordnung zu einer Gruppe der Elemente.
 
 
-
 ## Kann man benutzerdefinierte Felder anlegen?
 
 Ja, für jede Entität im System (d.h. Produkte, Attribute, Kategorien, Assoziationen, Produktfamilien, etc.) kann man benutzerdefinierte Felder anlegen. Nutzen Sie dafür den Entity Manager.
 
 AtroPIM bietet dem Anwender viel mehr Möglichkeiten an, als nur benutzerdefinierte Felder anzulegen, denn AtroPIM hat ein vollkommen flexibles Datenmodell. Man kann neue Entitäten anlegen, bestehende Entitäten editieren, die Relationen zwischen den Entitäten anlegen und verändern sowie die Metadaten editieren.
-
 
 
 ## Kann der Nutzer die Berechtigungen einschränken?
@@ -24,7 +22,7 @@ Ja, AtroPIM hat ein sehr flexibles Zugriffs- und Berechtigungskonzept. Durch die
 
 ## Kann man die Berechtigungen auf Feldebene editieren?
 
-Ja, für jede Rolle und jeden Nutzer ist es möglich, die Berechtigungen auf Feldebene einzurichten, damit z.B. ein User zwar Einträge aus einer Entität sehen kann, aber ohne Werte für ein spezifisches Feld, z.B. Preis, interne Notizen etc.
+Ja, für jede Rolle ist es möglich, die Berechtigungen auf Feldebene einzurichten, damit z.B. ein User zwar Einträge aus einer Entität sehen kann, aber ohne Werte für ein spezifisches Feld, z.B. Preis, interne Notizen etc.
 
 Bei der Einrichtung der Berechtigungen auf Feldebene ist es möglich zu bestimmen, ob ein Nutzer das Feld sehen kann oder nicht bzw. ob er den Wert editieren kann.
 
@@ -54,13 +52,10 @@ Es ist möglich, das AtroPIM direkt aus dem Adminbereich zu aktualisieren. Wir e
 
 ## Kann man AtroPIM-Module aus dem Adminbereich aktualisieren?
 
-Ja, dank dem Modul Manager ist es möglich, sowohl die individuellen als auch die offiziellen Module von AtroPIM direkt aus dem Adminbereich zu installieren, zu aktualisieren, zu aktivieren oder zu deaktivieren sowie zu deinstallieren.
-
-Wir empfehlen aber, Aktualisierungen nur von Ihren AtroPIM-Entwicklern vornehmen zu lassen.
-
+Ja, dank dem Modul Manager ist es möglich, sowohl die individuellen als auch die offiziellen Module von AtroPIM direkt aus dem Adminbereich zu installieren, zu aktualisieren  sowie zu deinstallieren.
   
 
-## Kann man Aufgaben und Tasks nach Zeitplan im Hintergrund ausführen lassen?
+## Kann man Aufgaben nach Zeitplan im Hintergrund ausführen lassen?
 
 Ja, in AtroPIM gibt es “Scheduled Jobs” dafür. Es is möglich zu konfigurieren, welche Skripte nach welchem Zeitplan auszuführen sind. Es können sowohl die System-Skripte als auch die individuellen Skripte als “Scheduled Jobs” ausgeführt werden.
 
@@ -71,16 +66,9 @@ Ja, in AtroPIM gibt es “Scheduled Jobs” dafür. Es is möglich zu konfigurie
 In AtroPIM gibt es ein vordefiniertes Theme - Atro Dark Theme. Man kann auch eigene Themes erstellen lassen, um z.B. ein Farbschema an die Firmenfarben anzupassen.
 
   
-
-## Ist die Navigationsleiste flexibel platzierbar?
-
-Ja, die Navigationsleiste kann links, oben oder rechts platziert werden. Der Platz wird im Theme festgelegt. In der Standardansicht von AtroPIM wird die Navigationsleiste links platziert.
-
-  
-
 ## Kann man die Navigationsleiste konfigurieren?
 
-Ja, Sie können die Reihenfolge der Elemente sowie die Icons für Elemente konfigurieren. Wenn Sie unser 2-Level-Navigation-Modul nutzen, können Sie auch Gruppen von Elementen definieren sowie diese Gruppen und die Elemente innerhalb einer Gruppe anordnen.
+Ja, Sie können die Reihenfolge der Elemente sowie die Icons für Elemente konfigurieren. Wenn Sie unser Modul Advanced Navigation nutzen, können Sie auch Gruppen von Elementen definieren sowie diese Gruppen und die Elemente innerhalb einer Gruppe anordnen.
 
   
 
@@ -106,4 +94,4 @@ Ja, wenn eingestellt, kann der Administrator alle Handlungen von allen Nutzern i
 
 Um die Konsistenz des Systems nicht zu gefährden, werden in AtroPIM keine Einträge gelöscht. Diese erhalten nur eine Eigenschaft “isDeleted”, damit das System weiß, dass dieser Eintrag den Nutzern nicht mehr anzuzeigen ist.
 
-Somit ist es möglich, die “gelöschten” Daten wiederherzustellen. Das sollte am besten von Ihren AtroPIM-Entwicklern erfolgen.
+Somit ist es möglich, die “gelöschten” Daten wiederherzustellen. Nach einem Monat werden sollte Datensätze entgültig gelöscht. 

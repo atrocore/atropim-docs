@@ -1,7 +1,6 @@
 # Beratung, Einführung und Support
 
   
-
 ## Welche Leistungen werden von AtroPIM angeboten?
 
 Wir bieten eine breite Palette von Leistungen an, die mit der Einführung eines PIM-Systems direkt und indirekt zu tun haben, unter anderem:
@@ -16,13 +15,11 @@ Wir bieten eine breite Palette von Leistungen an, die mit der Einführung eines 
 Sie können bei uns ein “Sorglos”-Paket erwerben, wir lassen Sie nie im Stich!
 
 
-
 ## Ich möchte beraten werden, welche Möglichkeiten gibt es, was kostet es?
 
 Wir können Ihnen ein kostenloses erstes Beratungsgespräch anbieten, nehmen Sie dafür Kontakt mit uns auf und wir vereinbaren einen Termin.
 
 Alternativ, wenn Sie Ihre Aufgaben und Probleme sowie die möglichen Lösungsalternativen mithilfe von AtroPIM detaillierter besprechen möchten, können wir Ihnen einen Workshop über Screen Sharing, bei uns oder bei Ihnen vor Ort anbieten.
-
 
 
 ## Wie wird es sichergestellt, dass die Kommunikation während des ganzen Projekts stimmt?
@@ -32,7 +29,6 @@ Wir legen hohen Wert auf die richtige Kommunikation und glauben, dass diese am m
 Wir setzen aktiv moderne Kommunikationsmethoden ein: Telefon, E-Mail und Screen Sharing. Jeder Kunde bekommt direkten Zugriff auf unser Projektmanagement- und Issue-Tracking-System.
 
 Projektsprachen bei uns sind – Deutsch, Englisch, Russisch oder Ukrainisch.
-
 
 
 ## Sollen wir uns vor Beginn des Projektes persönlich treffen?
@@ -77,7 +73,6 @@ Wir sorgen dafür, dass Sie mit unseren Lösungen nicht ratlos bleiben und sorge
 - **Enterprise** – für größere Anwender mit hohen Ansprüchen.
 
 Es ist auch möglich, mit uns einen SLA-Vertrag mit besonderen Bedingungen zu vereinbaren. Nehmen Sie dafür Kontakt mit uns auf.
-
   
 
 ## In welchen Sprachen kann ich unterstützt werden?

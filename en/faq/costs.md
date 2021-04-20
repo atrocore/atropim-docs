@@ -10,7 +10,7 @@ The costs are not linked to the number of users - with the sale of our premium m
 
 ## What does the implementation of AtroPIM cost?
 
-There is no general answer to this question, because every user has their own particularities and tasks that can be solved with the help of AtroPIM. We take projects with a project budget starting from EUR 10,000 net, including the acquisition of the necessary modules.
+There is no general answer to this question, because every user has their own particularities and tasks that can be solved with the help of AtroPIM. We take projects with a project budget starting from EUR 10,000 net, including the acquisition of the modules.
 
 
 
@@ -37,22 +37,8 @@ Milestones / sprints are defined for the implementation of a project. After a mi
 
 Yes, depending on the size of the project, we will invoice the customer with a down payment of EUR 3,000 net or more, so that the customer can prove the seriousness of his project with this payment and we can allocate the resources for the implementation of the project.
 
-  
-
-## Are there any quality losses due to lower hourly rates as with the competition?
-
-No, we always do our best and we use experienced specialists for every project.
-
-One of our competitive advantages lies in the use of nearshore programming.
 
   
-
-## Are there any cost advantages?
-
-We have our own development office in the Ukraine, which gives us an additional competitive advantage and allows us to offer our services to our customers more cheaply without sacrificing quality, because we pay attention to the code quality.
-
-  
-
 ## How else can I save costs?
 
 You should be willing to compromise with yourself and with us. Do not try to implement all requirements immediately, start with the most important ones. Who knows, maybe your needs will change over time. There are certain functions or modules that you can do without at first. These should not necessarily be implemented immediately.

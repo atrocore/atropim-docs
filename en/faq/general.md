@@ -32,7 +32,7 @@ Thanks to the service-oriented software architecture, any requests can be implem
 
 ### AtroPIM is based on AtroCore
 
-AtroСore is a full-fledged ecosystem or platform for developing business applications. All modules for AtroPIM will automatically be compatible with other AtroCore-based solutions and vice versa. It is currently possible to use AtroPIM together with a full-fledged CRM in one instance. AtroCore thus creates a new software ecosystem for expanding software and developing new solutions.
+AtroСore is a full-fledged ecosystem or platform for developing business applications. All modules for AtroPIM will automatically be compatible with other AtroCore-based solutions and vice versa. It is currently possible to use AtroPIM together with AtroDAM in one instance. AtroCore thus creates a new software ecosystem for expanding software and developing new solutions.
 
   
 
@@ -85,8 +85,6 @@ AtroPIM is a really innovative solution with many options for the user, because 
 ## Can you manage more than just product information in AtroPIM?
 
 Yes, AtroPIM is a flexible and configurable business application. Any data can be stored and managed here. Use the Entity Manager to set up the entities that are still missing; these can e.g. be - product series, orders, contracts, customer master data, invoices, etc.
-
-If you also want to manage customer data, please use our CRM module together with PIM in a AtroCore instance!
 
 
 
@@ -228,9 +226,7 @@ AtroPIM is a solution based on the AtroCore platform and therefore has all the p
 
 Technically speaking, all AtroPIM modules are developed for AtroCore and will therefore also be compatible with other AtroCore-based solutions.
 
-It is up to the user to decide which AtroCore applications he wants to use in one instance at the same time. It is currently possible to use AtroPIM together with a full-fledged CRM in one instance.
-
-Apart from AtroPIM, we are not aware of any other solution that combines CRM and PIM in one system.
+It is up to the user to decide which AtroCore applications he wants to use in one instance at the same time.
 
 
 

@@ -1,14 +1,12 @@
 # Connectivity, data import and export
 
 
-
 ## Which systems can AtroPIM be integrated with?
 
 AtroPIM can be integrated with any third-party system that enables integration, it can be online shops, ERP, CRM, PLM, MDM, CMS and other systems. AtroPIM is a web-based software with a REST API that can be used for integration purposes. Connectors for AtroPIM can also be programmed, which can use the APIs of third-party systems.
 
 If integration via API from AtroPIM or a third-party system is technically not possible, data exchange can still be ensured by exchanging files.
 
-  
 
 ## How can AtroPIM be integrated with other systems?
 
@@ -20,12 +18,9 @@ There are absolutely no restrictions on integration with other systems. The data
 - Via automatic export and import of entries - Via import feeds and export feeds (import feeds and export feeds modules required).
 
 
-
-
 ## Does AtroPIM have an API?
 
 Yes, as an application with a service-oriented software architecture, AtroPIM has a full REST API. This is also immediately available for custom entities and fields after they are set up.
-
   
 
 ## Are there any restrictions on data exchange with third-party systems?
@@ -38,18 +33,10 @@ No, AtroPIM has absolutely no restrictions on data exchange with third-party sys
 
 Each user can export the entries for which he is authorized, the format (CSV or XLSX) or the data volume is determined (which fields are to be exported - all or only the selected ones). The entries are exported per entity - that is, when you are with the products, the product entries are exported without data from the dependent entities such as attributes, categories, associations etc.
 
-To implement more complicated export scenarios, e.g. If the entire product catalog, including all associated information, is to be exported at the same time, we recommend using our Export Feeds module.
-
-
 
 ## Can I import data into AtroPIM?
 
-Thanks to the import configurator, the administrator can import a CSV file with data into any entity in the system. The locale settings and field mapping must be carried out; the standard values for columns can also be specified.
-
-The import can take place per entity - i.e. when you are with the products, the product entries are imported without data for dependent entities such as attributes, categories, associations etc.
-
-To implement more complicated import scenarios, e.g. if If the entire product catalogs including all related information are to be imported at the same time, we recommend using our import feeds module.
-
+Thanks to the import configurator, the administrator can import a CSV file with data into any entity in the system. The locale settings and field mapping must be carried out; the standard values for columns can also be specified. The import can take place per entity.
   
 
 ## Is it possible to exchange data with AtroPIM fully automatically?

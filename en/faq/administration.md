@@ -54,9 +54,7 @@ It is possible to update the AtroPIM directly from the admin area. However, we r
 
 ## Can I update AtroPIM modules from the admin area?
 
-Yes, thanks to the Module Manager it is possible to install, update, activate or deactivate and uninstall both the individual and the official AtroPIM modules directly from the admin area.
-
-However, we recommend that updates only be carried out by your AtroPIM developers.
+Yes, thanks to the Module Manager it is possible to install, update and uninstall both the individual and the official AtroPIM modules directly from the admin area.
 
   
 
@@ -70,15 +68,10 @@ Yes, there are “Scheduled Jobs” for this in AtroPIM. It is possible to confi
 
 There is a predefined theme in AtroPIM - Atro Dark Theme. You can also have your own themes created, e.g. to adapt a color scheme to the company colors.
 
-  
-
-## Can the navigation bar be placed flexibly?
-
-Yes, the navigation bar can be placed on the left, top or right. The place is determined in the theme. In the standard AtroPIM view, the navigation bar is placed on the left.
 
 ## Can you configure the navigation bar?
 
-Yes, you can configure the order of the elements and the icons for elements. If you use our 2-level navigation module, you can also define groups of elements and arrange these groups and the elements within a group.
+Yes, you can configure the order of the elements and the icons for elements. If you use our advanced navigation module, you can also define groups of elements and arrange these groups and the elements within a group.
 
   
 
@@ -104,4 +97,4 @@ Yes, if set, the administrator can trace all actions of all users in the system 
 
 In order not to endanger the consistency of the system, no entries are deleted in AtroPIM. These only get the property “isDeleted” so that the system knows that this entry can no longer be displayed to the users.
 
-Thus it is possible to restore the "deleted" data. This should best be done by your AtroPIM developers.
+Thus it is possible to restore the "deleted" data. The "deleted" data is permatently deleted after one month.

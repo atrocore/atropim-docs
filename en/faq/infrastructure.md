@@ -31,7 +31,7 @@ Yes, as a modern and scalable solution, AtroPIM can easily process product catal
 
 AtroPIM has no restrictions in terms of setting up the server infrastructure. This can be structured like any other web application. This can also fully take into account the special features of the user. The application can be set up as a single-server solution or as a multi-server solution.
 
-A server for EUR 20 per month will be sufficient to install and use the application.
+A server for EUR 20 per month will be sufficient to install and run the application.
 
   
 

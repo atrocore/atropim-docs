@@ -10,7 +10,7 @@ Sowohl beim Verkauf unserer Premium-Module als auch bei deren Wartung und Suppor
 
 ## Was kostet die Implementierung von AtroPIM?
 
-Diese Frage lässt sich pauschal nicht beantworten, denn jeder Anwender hat eigene Besonderheiten und Aufgaben, die mithilfe von AtroPIM zu lösen sind. Wir nehmen Projekte mit einem Projektbudget ab EUR 10.000 netto inkl. Erwerb notwendiger Module an.
+Diese Frage lässt sich pauschal nicht beantworten, denn jeder Anwender hat eigene Besonderheiten und Aufgaben, die mithilfe von AtroPIM zu lösen sind. Wir nehmen Projekte mit einem Projektbudget ab EUR 10.000 netto inkl. Erwerb der Module an.
 
 
 
@@ -36,22 +36,8 @@ Für die Umsetzung eines Projektes werden die Milestones / Sprints definiert. Na
 ## Gibt es eine Anzahlung und wofür wird diese benötigt?
 
 Ja, je nach Projektgröße stellen wir dem Kunden eine Anzahlung iHv ab EUR 1.000 netto in Rechnung, damit der Kunde die Seriosität seines Projektvorhabens mit dieser Zahlung belegen kann und wir die Ressourcen für die Umsetzung des Projektes zuweisen können.
-
   
-
-## Gibt es Qualitätseinbußen wegen niedrigerer Stundensätze wie beim Wettbewerb?
-
-Nein, wir geben immer unser Bestes und bei jedem Projekt setzen wir erfahrenes Fachpersonal ein.
-
-Einer unserer Wettbewerbsvorteile liegt in der Ausnutzung von Nearshore-Programmierung. So arbeiten alle unsere Entwickler in unseren Entwicklungsbüros in Zhitomir, Lwiw und Kyiv (Ukraine).
-
-  
-
-## Gibt es Kostenvorteile?
-
-Wir haben ein eigenes Entwicklungsbüro in der Ukraine, was uns einen zusätzlichen Wettbewerbsvorteil verschafft und erlaubt, die Leistungen für unsere Kunden günstiger anzubieten, ohne Qualitätseinbußen, denn wir achten auf die Codequalität.
-
-  
+ 
 
 ## Wie kann ich sonst Kosten sparen?
 

@@ -27,7 +27,6 @@ Ja, AtroPIM ist hochskalierbar und kann speziell je nach Bedürfnissen des Anwen
 ## Kann AtroPIM mit hunderttausenden Produkten zurechtkommen?
 
 Ja, als moderne und skalierbare Lösung kann AtroPIM problemlos Produktkataloge mit mehreren hunderttausenden Produkten verarbeiten. Natürlich sollte das System auf einer entsprechenden Infrastruktur bereitgestellt werden.
-
   
 
 ## Welche Besonderheiten sind bei der Serverinfrastruktur zu beachten?
@@ -35,7 +34,6 @@ Ja, als moderne und skalierbare Lösung kann AtroPIM problemlos Produktkataloge 
 AtroPIM hat keine Einschränkungen in Bezug auf die Einrichtung der Serverinfrastruktur. Diese kann wie bei jeder anderen Webanwendung aufgebaut sein. Diese kann auch voll und ganz die Besonderheiten des Anwenders berücksichtigen. Man kann die Anwendung sowohl als eine Ein-Server-Lösung als auch als eine Multi-Server-Lösung einrichten.
 
 Es wird ein Server für EUR 20 pro Monat ausreichen, um die Anwendung zu installieren und nutzen zu können.
-
   
 
 ## Was ist mit Backups?

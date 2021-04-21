@@ -268,3 +268,10 @@ AtroPIM is a completely web-based software and as such it offers the user the fo
 - Works in every browser, no additional software needs to be installed;
 - Uncomplicated connection to any other system possible;
 - available as an intranet and internet solution.
+
+
+## What is Entity?
+
+An entity is a set of data that can be classified and that has a fixed relationship with other entities. An entity thus has clearly identifiable objects or clearly identifiable facts that have comparable properties that characterize this entity. Examples of an entity: contacts, products, product attributes, associations, categories, contracts, documents, orders, etc.
+
+Several data entries can belong to an entity.

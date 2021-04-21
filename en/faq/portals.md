@@ -37,7 +37,6 @@ A supplier portal is helpful for organizing cooperation with suppliers. E.g. a s
 Yes, it is possible to set up a portal so that it can be accessed via a subdomain. This requires special settings in your server infrastructure.
 
 
-
 ## How many portals can be created?
 
 Several portals can be created in AtroPIM. Each portal can serve its own purpose - e.g. supplier portal, dealer portals, portals for collaboration with external parties and others can be created.

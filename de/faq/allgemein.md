@@ -74,8 +74,6 @@ Preise für unsere Connectoren zu anderen Systemen sind meistens niedriger als b
 
 Wir bieten zahlreiche günstige Module an, um die Funktionalität des Systems zu ergänzen oder zu ändern. Der Einsatz von bestehenden Modulen ist wesentlich günstiger als die Eigenentwicklung.
 
-Dank dem Einsatz von Deutsch-Ukrainischen Teams bietet AtLabs GmbH einen relativ günstigen Stundensatz für ein Projekt zur Implementierung eines PIM-Systems sowie für die anschließende Unterstützung.
-
 AtroPIM ist eine ausgezeichnete Lösung für solche Unternehmen, die Probleme mit ihren Produktinformationen haben. Bisher waren einige von ihnen aufgrund der zu hohen Kosten nicht bereit, in eine Lösung zu investieren.
 
   

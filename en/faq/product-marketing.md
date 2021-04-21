@@ -34,7 +34,6 @@ Each user can create any number of associations. The following associations are 
 The unused associations can easily be removed.
 
 
-
 ## How many product catalogs can you manage?
 
 You can manage several product catalogs in AtroPIM.

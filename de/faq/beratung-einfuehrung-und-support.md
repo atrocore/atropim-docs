@@ -33,8 +33,7 @@ Projektsprachen bei uns sind – Deutsch, Englisch, Russisch oder Ukrainisch.
 
 ## Sollen wir uns vor Beginn des Projektes persönlich treffen?
 
-Nicht unbedingt, dank moderner Kommunikationstechnologien ist es nicht mehr notwendig. Wir treffen uns aber gerne mit Ihnen, wenn Sie es wünschen. Unsere Zentrale befindet sich in Regensburg, Deutschland. Gerne können Sie uns auch in einem unserer ukrainischen Büros besuchen.
-
+Nicht unbedingt, dank moderner Kommunikationstechnologien ist es nicht mehr notwendig. Wir treffen uns aber gerne mit Ihnen, wenn Sie es wünschen. Unsere Zentrale befindet sich in Regensburg, Deutschland.
 
 
 ## Bekomme ich einen festen Ansprechpartner während des Projekts?

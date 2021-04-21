@@ -138,15 +138,7 @@ Codes sind wichtig als einheitliche Bezeichnungen für Ihre Einträge in AtroPIM
 Deshalb empfehlen wir solche Codes zu definieren, die eindeutig und informativ sind und Ihnen helfen, sofort und genau zu verstehen, um welchen Eintrag es geht.
 
   
-
 ## Ist es möglich, eine Massenänderung bei Produktdaten vorzunehmen?
 
 Ja, man kann Informationen über Produkte, Produkt-Assoziationen und sonstige von Produkten abhängige Entitäten mithilfe von Massenänderung entfernen, ergänzen oder anpassen.
 
-  
-
-## Was ist Entität (Entity)?
-
-Eine Entität ist eine Einheit von Daten, die klassifiziert werden können und die eine feste Beziehung zu anderen Entitäten haben. Eine Entität hat somit eindeutig identifizierbare Objekte oder eindeutig identifizierbare Sachverhalte, die vergleichbare Eigenschaften aufweisen, die diese Entität charakterisieren. Beispiele einer Entität: Kontakte, Produkte, Produktattribute, Assoziationen, Kategorien, Verträge, Dokumente, Bestellungen etc.
-
-Zu einer Entität können mehrere Dateneinträge gehören.

@@ -130,9 +130,3 @@ That is why we recommend defining codes that are clear, informative and help you
 
 Yes, you can remove, add to or adapt information about products, product associations and other product-dependent entities using mass changes.
 
-
-## What is Entity?
-
-An entity is a set of data that can be classified and that has a fixed relationship with other entities. An entity thus has clearly identifiable objects or clearly identifiable facts that have comparable properties that characterize this entity. Examples of an entity: contacts, products, product attributes, associations, categories, contracts, documents, orders, etc.
-
-Several data entries can belong to an entity.

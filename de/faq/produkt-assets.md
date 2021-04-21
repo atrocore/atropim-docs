@@ -4,7 +4,7 @@
 
 ## Wie kann ich das Hauptbild eines Produktes ändern?
 
-In AtroPIM gilt das erste Produktbild automatisch als Hauptbild eines Produktes. Um das Hauptbild zu ändern, nutzen Sie die Drag-and-Drop-Funktion auf der Produktdetailseite.
+Ja, jedes Bild mit dem Scope Global kann als Hauptbild gesetzt werden.
 
 
 
@@ -31,5 +31,4 @@ Ja, für jedes Produktbild ist es möglich, den Scope für dieses Bild zu defini
 Ja, Sie können ein Produktbild mehr als einem Produkt zuordnen. Dies ist auch auf unterschiedliche Weisen möglich:
 
 - Über die Produktdetailseite,
-- Über Bilddetailseite,
 - Über Massenänderung.

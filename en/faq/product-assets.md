@@ -4,8 +4,7 @@
 
 ## How can I change the main image of a product?
 
-In AtroPIM, the first product image is automatically the main image of a product. To change the main picture, use the drag-and-drop function on the product detail page.
-
+Yes, any image with the Scope Global can be set as the main image.
 
 
 ## Can you change the order of the product images?
@@ -31,5 +30,4 @@ Yes, for every product image it is possible to define the scope for this image. 
 Yes, you can assign a product image to more than one product. This can also be done in different ways:
 
 - Via the product detail page,
-- Via image detail page,
 - Via mass change.

@@ -8,7 +8,7 @@ Ein Portal ist eine vollwertige Sub-Instanz von AtroPIM. Portale werden verwende
 
 Man kann für ein Portal konfigurieren:
 
-- Interface-Sprache und sonstige lokale Einstellungen
+- Sprache und sonstige lokale Einstellungen
 - Name
 - Zugangs-URL
 - Verfügbare Rollen
@@ -61,7 +61,6 @@ Bei Bedarf können die zusätzlichen Widgets hinzuprogrammiert werden.
 ## Kann man für ein Portal ein eigenes Theme einstellen?
 
 Ja, der Administrator kann jedem Portal ein eigenes Theme zuweisen. Somit ist es möglich, für Portale spezifische Designs erstellen, die dem Zweck des Portals entsprechen.
-
   
 
 ## Kann man in einem Portal eine andere Sprache voreinstellen?

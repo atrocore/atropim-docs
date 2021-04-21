@@ -276,3 +276,11 @@ AtroPIM ist eine vollkommen webbasierte Software und als solche bietet sie dem A
 - Unkomplizierte Anbindung an beliebige andere Systeme möglich;
 - verfügbar als Intranet und Internet-Lösung.
 
+
+ 
+
+## Was ist Entität (Entity)?
+
+Eine Entität ist eine Einheit von Daten, die klassifiziert werden können und die eine feste Beziehung zu anderen Entitäten haben. Eine Entität hat somit eindeutig identifizierbare Objekte oder eindeutig identifizierbare Sachverhalte, die vergleichbare Eigenschaften aufweisen, die diese Entität charakterisieren. Beispiele einer Entität: Kontakte, Produkte, Produktattribute, Assoziationen, Kategorien, Verträge, Dokumente, Bestellungen etc.
+
+Zu einer Entität können mehrere Dateneinträge gehören.

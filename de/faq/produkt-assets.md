@@ -16,7 +16,7 @@ Um die Reihenfolge der Produktbilder zu ändern, nutzen Sie die Drag-and-Drop-Fu
 
 ## Kann ich mehr als ein Bild pro Kategorie abspeichern?
 
-Ja, es ist möglich. Um die Reihenfolge der Kategoriebilder zu ändern, nutzen Sie die Drag-and-Drop-Funktion auf der Kategorie “Detailseite”. Das erste Bild gilt immer als Hauptbild der Kategorie.
+Ja, dies ist möglich. Um die Reihenfolge der Kategoriebilder zu ändern, nutzen Sie die Drag-and-Drop-Funktion auf der Kategorie “Detailseite”. Das erste Bild gilt immer als Hauptbild der Kategorie.
 
 
 

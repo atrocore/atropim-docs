@@ -4,7 +4,7 @@
 
 ## Mit welchen Systemen kann AtroPIM integriert werden?
 
-AtroPIM kann mit beliebigen Drittsystemen integriert werden, die eine Integration ermöglichen, es können Onlineshops, ERP, CRM, WaWis, PLM, MDM, CMS und sonstige Systeme sein. AtroPIM ist eine webbasierte Software mit einer REST API, die für Integrationszwecke genutzt werden kann. Es können auch Connectoren für AtroPIM programmiert werden, die die APIs von Drittsystemen verwenden können.
+AtroPIM kann mit beliebigen Drittsystemen integriert werden, die eine Integration ermöglichen; dies können Onlineshops, ERP, CRM, WaWis, PLM, MDM, CMS und sonstige Systeme sein. AtroPIM ist eine webbasierte Software mit einer REST API, die für Integrationszwecke genutzt werden kann. Es können auch Connectoren für AtroPIM programmiert werden, die die APIs von Drittsystemen verwenden können.
 
 Falls eine Integration über API von AtroPIM oder einem Drittsystem technisch nicht möglich ist, kann man den Datenaustausch immer noch über den Austausch von Dateien sicherstellen.
 
@@ -34,14 +34,14 @@ Nein, seitens AtroPIM gibt es absolut keine Einschränkungen beim Datenaustausch
 
 ## Kann man Daten aus AtroPIM exportieren?
 
-Jeder Benutzer kann die Einträge, für die er berechtigt ist, exportieren, dabei wird das Format (CSV oder XLSX) oder der Datenumfang bestimmt (welche Felder zu exportieren sind – alle oder nur die ausgewählten). Die Einträge werden pro Entität exportiert.
+Jeder Benutzer kann die Einträge, für die er berechtigt ist, exportieren; dabei wird das Format (CSV oder XLSX) oder der Datenumfang bestimmt (welche Felder zu exportieren sind – alle oder nur die ausgewählten). Die Einträge werden pro Entität exportiert.
 
 
 ## Kann man Daten in AtroPIM importieren?
 
-Dank dem Import-Konfigurator kann der Administrator eine CSV-Datei mit Daten in jede Entität des Systems importieren. Dabei sind die Locale-Einstellungen und Feld-Mapping vorzunehmen, es können auch die Standardwerte für Spalten vorgegeben werden.
+Dank des Import-Konfigurators kann der Administrator eine CSV-Datei mit Daten in jede Entität des Systems importieren. Dabei sind die Locale-Einstellungen und Feld-Mapping vorzunehmen, es können auch die Standardwerte für Spalten vorgegeben werden.
 
-Der Import kann pro Entität erfolgen -– d.h. wenn man bei den Produkten ist, werden die Produkteinträge importiert, ohne Daten für abhängige Entitäten wie Attribute, Kategorien, Assoziationen etc.
+Der Import kann pro Entität erfolgen -– d.h. wenn man bei den Produkten ist, werden die Produkteinträge importiert, ohne Daten für abhängige Entitäten wie Attribute, Kategorien, Assoziationen, etc.
 
   
 
@@ -59,4 +59,4 @@ Jeder Nutzer ist berechtigt, alle Einträge, auf die er Zugriff hat, zu exportie
 
 ## Wer ist berechtigt, Daten in AtroPIM zu importieren?
 
-Standardmäßig ist nur der Administrator berechtigt, Daten in AtroPIM zu importieren. Dank dem Import Feeds-Modul können fortgeschrittene Importszenarien umgesetzt werden, auch von anderen Nutzern im System, die dafür berechtigt sind.
+Standardmäßig ist nur der Administrator berechtigt, Daten in AtroPIM zu importieren. Dank des Import Feeds-Moduls können fortgeschrittene Importszenarien umgesetzt werden, auch von anderen Nutzern im System, die dafür berechtigt sind.

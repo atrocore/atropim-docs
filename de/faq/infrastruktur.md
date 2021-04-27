@@ -36,6 +36,6 @@ AtroPIM hat keine Einschränkungen in Bezug auf die Einrichtung der Serverinfras
 Es wird ein Server für EUR 20 pro Monat ausreichen, um die Anwendung zu installieren und nutzen zu können.
   
 
-## Was ist mit Backups?
+## Wie steht es um Backups?
 
 Die Einrichtung von Backups ist Ihrem Serveradministrator überlassen. Es können beliebige Backup-Szenarien ohne irgendwelche Einschränkungen umgesetzt werden. Falls Ihr Hoster die Backups mit anbietet, sind diese auch nutzbar.

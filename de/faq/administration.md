@@ -4,19 +4,19 @@
 
 ## Kann man User-Interfaces aus dem Adminbereich anpassen?
 
-Ja, es ist möglich, die Layouts von Listen- und Detailseiten direkt aus dem Adminbereich mithilfe des Layout Managers anzupassen. Dabei können Sie über Drag-and-Drop nicht nur die anzuzeigenden Felder bestimmen, sondern auch deren Reihenfolge und die Zuordnung zu einer Gruppe der Elemente.
+Ja, es ist möglich, die Layouts von Listen- und Detailseiten direkt aus dem Adminbereich mithilfe des Layout-Managers anzupassen. Dabei können Sie über Drag-and-Drop nicht nur die anzuzeigenden Felder bestimmen, sondern auch deren Reihenfolge und die Zuordnung zu einer Gruppe der Elemente.
 
 
 ## Kann man benutzerdefinierte Felder anlegen?
 
-Ja, für jede Entität im System (d.h. Produkte, Attribute, Kategorien, Assoziationen, Produktfamilien, etc.) kann man benutzerdefinierte Felder anlegen. Nutzen Sie dafür den Entity Manager.
+Ja, für jede Entität im System (d.h. Produkte, Attribute, Kategorien, Assoziationen, Produktfamilien, etc.) kann man benutzerdefinierte Felder anlegen. Nutzen Sie dafür den Entity-Manager.
 
 AtroPIM bietet dem Anwender viel mehr Möglichkeiten an, als nur benutzerdefinierte Felder anzulegen, denn AtroPIM hat ein vollkommen flexibles Datenmodell. Man kann neue Entitäten anlegen, bestehende Entitäten editieren, die Relationen zwischen den Entitäten anlegen und verändern sowie die Metadaten editieren.
 
 
 ## Kann der Nutzer die Berechtigungen einschränken?
 
-Ja, AtroPIM hat ein sehr flexibles Zugriffs- und Berechtigungskonzept. Durch die Rollen wird bestimmt, welcher Nutzer was und bei welchen Entitäten machen kann. Es ist auch möglich, die Zugriffsebene der Nutzer nur für eigene Einträge, Einträge des eigenen Teams oder alle Einträge zu bestimmen.
+Ja, AtroPIM hat ein sehr flexibles Zugriffs- und Berechtigungskonzept. Durch die Rollen wird bestimmt, welcher Nutzer was und bei welchen Entitäten machen darf. Es ist auch möglich, die Zugriffsebene der Nutzer nur für eigene Einträge, Einträge des eigenen Teams oder alle Einträge zu bestimmen.
 
   
 
@@ -32,7 +32,7 @@ Bei der Einrichtung der Berechtigungen auf Feldebene ist es möglich zu bestimme
 
 ACL Strict Mode bestimmt das Verhalten des Systems bei der Zugriffsgewährung.
 
-Wenn ACL Strict Mode deaktiviert ist, hat man automatisch Zugriff auf alle Entitäten, auch auf solche, die eigentlich nicht für den Nutzer konfiguriert sind. Wenn ACL Strict Mode aktiviert ist, hat man automatisch Zugriff nur auf die freigegebene Entitäten.
+Wenn ACL Strict Mode deaktiviert ist, hat man automatisch Zugriff auf alle Entitäten, auch auf solche, die eigentlich nicht für den Nutzer konfiguriert sind. Wenn ACL Strict Mode aktiviert ist, hat man automatisch Zugriff nur auf die freigegebenen Entitäten.
 
 Wir empfehlen, den ACL Strict Mode von Anfang an zu aktivieren.
 
@@ -40,24 +40,23 @@ Wir empfehlen, den ACL Strict Mode von Anfang an zu aktivieren.
 
 ## Was ist bedingte Feldlogik?
 
-Es ist möglich, die Bedingungen einzustellen, ob ein Feld sichtbar, read-only oder ein Pflichtfeld sein sollte. Als Bedingung kann z.B. der Wert eines anderen Feldes herangezogen werden, z.B. wenn der Status eines Eintrages “Approved” ist, kann das Feld “Name” nicht mehr editierbar sein.
+Es ist möglich, die Bedingungen dafür einzustellen, ob ein Feld sichtbar, read-only oder ein Pflichtfeld sein soll. Als Bedingung kann z.B. der Wert eines anderen Feldes herangezogen werden, z.B. wenn der Status eines Eintrages “Approved” ist, kann das Feld “Name” nicht mehr editiert werden.
 
-  
 
 ## Kann man AtroPIM aus dem Adminbereich aktualisieren?
 
-Es ist möglich, das AtroPIM direkt aus dem Adminbereich zu aktualisieren. Wir empfehlen aber, dies nur von Ihren AtroPIM-Entwicklern machen zu lassen. Der Admin erhält eine Benachrichtigung, wenn ein Update verfügbar ist.
+Es ist möglich, das AtroPIM direkt aus dem Adminbereich zu aktualisieren. Wir empfehlen aber, dies nur von Ihren AtroPIM-Entwicklern durchführen zu lassen. Der Admin erhält eine Benachrichtigung, wenn ein Update verfügbar ist.
 
 
 
 ## Kann man AtroPIM-Module aus dem Adminbereich aktualisieren?
 
-Ja, dank dem Modul Manager ist es möglich, sowohl die individuellen als auch die offiziellen Module von AtroPIM direkt aus dem Adminbereich zu installieren, zu aktualisieren  sowie zu deinstallieren.
+Ja, mithilfe des Modul-Managers ist es möglich, sowohl die individuellen als auch die offiziellen Module von AtroPIM direkt aus dem Adminbereich zu installieren, zu aktualisieren  sowie zu deinstallieren.
   
 
 ## Kann man Aufgaben nach Zeitplan im Hintergrund ausführen lassen?
 
-Ja, in AtroPIM gibt es “Scheduled Jobs” dafür. Es is möglich zu konfigurieren, welche Skripte nach welchem Zeitplan auszuführen sind. Es können sowohl die System-Skripte als auch die individuellen Skripte als “Scheduled Jobs” ausgeführt werden.
+Ja, in AtroPIM gibt es “Scheduled Jobs” dafür. Es ist möglich zu konfigurieren, welche Skripte nach welchem Zeitplan auszuführen sind. Es können sowohl die System-Skripte als auch die individuellen Skripte als “Scheduled Jobs” ausgeführt werden.
 
   
 
@@ -86,7 +85,7 @@ Ja, der Administrator kann die Standard-Dashboards über Drag-and-Drop konfiguri
 
 ## Gibt es einen Aktionslog?
 
-Ja, wenn eingestellt, kann der Administrator alle Handlungen von allen Nutzern im System sehr genau nachvollziehen. Es wird dokumentiert, wer, an welcher Entität, welche Werte (Felder) und welche Einträge geändert hat. Die Lesezugriffe werden ebenfalls dokumentiert. Die Einträge im Aktionslog können durchgesucht werden.
+Ja, wenn eingestellt, kann der Administrator alle Handlungen von allen Nutzern im System sehr genau nachvollziehen. Es wird dokumentiert, wer an welcher Entität welche Werte (Felder) und welche Einträge geändert hat. Die Lesezugriffe werden ebenfalls dokumentiert. Die Einträge im Aktionslog können durchsucht werden.
 
   
 
@@ -94,4 +93,4 @@ Ja, wenn eingestellt, kann der Administrator alle Handlungen von allen Nutzern i
 
 Um die Konsistenz des Systems nicht zu gefährden, werden in AtroPIM keine Einträge gelöscht. Diese erhalten nur eine Eigenschaft “isDeleted”, damit das System weiß, dass dieser Eintrag den Nutzern nicht mehr anzuzeigen ist.
 
-Somit ist es möglich, die “gelöschten” Daten wiederherzustellen. Nach einem Monat werden sollte Datensätze entgültig gelöscht. 
+Somit ist es möglich, die “gelöschten” Daten wiederherzustellen. Nach einem Monat werden sollte Datensätze endgültig gelöscht. 

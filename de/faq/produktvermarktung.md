@@ -4,7 +4,7 @@
 
 ## Kann man ein Produkt aktivieren oder deaktivieren?
 
-Ja, man kann ein Produkt aktivieren oder deaktivieren. Dies ist auch über die Massenänderungs-Funktion möglich. Standardweise werden die deaktivierten Produkte nicht übertragen.
+Ja, man kann ein Produkt aktivieren oder deaktivieren. Dies ist auch über die Massenänderungs-Funktion möglich. Standardmäßig werden die deaktivierten Produkte nicht übertragen.
 
 
 
@@ -16,7 +16,7 @@ Ja, in AtroPIM ist es möglich, Cross-Selling-Angebote für Ihre Produkte anzule
 
 ## Welche Assoziationen gibt es und wozu sind diese gut?
 
-Assoziationen helfen, Zusammenhänge zwischen Produkten zu definieren – entweder einseitig oder beiderseitig.
+Assoziationen helfen, Zusammenhänge zwischen Produkten zu definieren – entweder einseitig oder wechselseitig.
 
 Jeder Anwender kann beliebig viele Assoziationen anlegen. Standardmäßig sind folgende Assoziationen angelegt:
 
@@ -66,9 +66,9 @@ Ja, nutzen Sie die kanalspezifischen Attribute dafür. Um ein Attribut als kanal
 
 ## Kann man Produktpreise verwalten?
 
-In AtroPIM Preis ist ein Standard-Feld vom Typ Preis vorhanden. Es ist möglich, mehrere solcher Felder anzulegen und zu nutzen.
+In AtroPIM ist ein Standard-Feld vom Typ Preis vorhanden. Es ist möglich, mehrere solcher Felder anzulegen und zu nutzen.
 
-Wenn Sie eine komplizierte Preisverwaltung mit Staffelpreisen, unterschiedlichen Währungen etc. planen, nutzen Sie bitte unser Modul “Advanced Prices”.
+Wenn Sie eine komplizierte Preisverwaltung mit Staffelpreisen, unterschiedlichen Währungen etc. planen, nutzen Sie bitte unser Modul “Pricing”.
 
 
 

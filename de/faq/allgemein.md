@@ -94,9 +94,9 @@ Ja, AtroPIM ist eine flexible und konfigurierbare Business Application. Hier kö
 
 Ja, AtroPIM ist Open Source. Wir haben nichts zu verstecken und jeder Entwickler, der sich mit den von uns eingesetzten Technologien auskennt (PHP, Backbone.js etc.), kann bei Bedarf Änderungen direkt im Code vornehmen.
 
-Auch alle kostenlosen und kostenpflichtigen (Premium-) Module werden quelloffen geliefert. Bitte beachten Sie, dass die Premium Module keine freie Software sind, die Lizenzbedingungen sind zu beachten, diese sind aber auch quelloffen. Genau deshalb können wir mit Stolz sagen, dass AtroPIM eine 100% Open Source PIM-Software ist.
+Auch alle kostenlosen und kostenpflichtigen (Premium-) Module werden quelloffen geliefert. Bitte beachten Sie, dass die Premium Module keine freie Software sind, die Lizenzbedingungen sind zu beachten; diese sind aber auch quelloffen. Genau deshalb können wir mit Stolz sagen, dass AtroPIM eine 100% Open Source PIM-Software ist.
 
-Dank diesem Ansatz erhoffen wir uns, eine große Community von Nutzern und Entwicklern aufzubauen, die zur Weiterentwicklung unserer Lösungen beitragen können.
+Aufgrund von diesem Ansatz erhoffen wir uns, eine große Community von Nutzern und Entwicklern aufzubauen, die zur Weiterentwicklung unserer Lösungen beitragen können.
 
   
 
@@ -104,9 +104,9 @@ Dank diesem Ansatz erhoffen wir uns, eine große Community von Nutzern und Entwi
 
 ### Moderne Softwarearchitektur
 
-AtroPIM basiert auf einer modernen serviceorientierten Softwarearchitektur, d.h. bei AtroPIM läuft alles über API. Es erleichtert die Weiterentwicklung des Systems und die Integration von AtroPIM mit anderen Systemen, denn dieselbe API wird für den Datenaustausch sowohl innerhalb des Systems als auch mit den Drittsystemen verwendet.
+AtroPIM basiert auf einer modernen, serviceorientierten Softwarearchitektur, d.h. bei AtroPIM läuft alles über API. Es erleichtert die Weiterentwicklung des Systems und die Integration von AtroPIM mit anderen Systemen, denn dieselbe API wird für den Datenaustausch sowohl innerhalb des Systems als auch mit den Drittsystemen verwendet.
 
-Dank dem verwendeten Javascript Framework Backbone.js ist AtroPIM als eine Single Page Application (SPA) umgesetzt, was die Performance des Systems wesentlich verbessert, denn es werden nur die notwendigen Informationen nachgeladen und nicht die komplette Seite, wie bei vielen Websites oder sonstigen Webanwendungen.
+Dank des verwendeten Javascript Framework Backbone.js ist AtroPIM als eine Single Page Application (SPA) umgesetzt, was die Performance des Systems wesentlich verbessert, denn es werden nur die notwendigen Informationen nachgeladen und nicht die komplette Seite, wie bei vielen Websites oder sonstigen Webanwendungen.
 
 
 
@@ -118,13 +118,13 @@ AtroPIM setzt auf moderne und bewährte Open-Source-Technologien, die seit Jahre
 
 ### Moderner Ansatz bei der Softwareentwicklung und Support
 
-Wir sind auch modern in unserem Ansatz der Softwareentwicklung, wir entwickeln AtroPIM als dynamische Software mit einem Baukastensystem und aktualisieren unsere Lösungen regelmäßig, um den Kundenwünschen und Anforderungen Rechnung zu tragen. Die Aktualisierung des Systems und der Module erfolgt mithilfe unseres innovativen Modul Managers, um mögliche Konflikte und Kompatibilitätsprobleme rechtzeitig zu finden und den Aktualisierungsaufwand so minimal wie möglich zu halten.
+Wir sind auch modern in unserem Ansatz der Softwareentwicklung, wir entwickeln AtroPIM als dynamische Software mit einem Baukastensystem und aktualisieren unsere Lösungen regelmäßig, um den Kundenwünschen und -Anforderungen Rechnung zu tragen. Die Aktualisierung des Systems und der Module erfolgt mithilfe unseres innovativen Modul-Managers, um mögliche Konflikte und Kompatibilitätsprobleme rechtzeitig zu finden und den Aktualisierungsaufwand so minimal wie möglich zu halten.
 
 
 
 ### Moderne Benutzeroberflächen
 
-AtroPIM hat moderne, benutzerfreundliche und intuitiv verständliche Benutzeroberflächen mit Responsive Design. Diese sind universell und erweiterungsfähig, egal welche Funktionen der Anwender sich ausdenken wird. Es sind beliebige Änderungen möglich, ohne die Benutzerfreundlichkeit zu beeinträchtigen.
+AtroPIM hat moderne, benutzerfreundliche und intuitiv verständliche Benutzeroberflächen mit Responsive Design. Diese sind universell und erweiterungsfähig, gleich, welche Funktionen der Anwender sich ausdenken wird. Es sind beliebige Änderungen möglich, ohne die Benutzerfreundlichkeit zu beeinträchtigen.
 
 
 
@@ -136,7 +136,7 @@ Man hat folgende Möglichkeiten, das Verhalten des Systems zu beeinflussen:
 
 - Entity Manager – man kann neue Entitäten anlegen (z.B. Verträge, Produktserien, Produktgruppen etc.) oder bestehende anpassen, indem Sie neue Felder hinzufügen, entfernen oder die Regel für die bedingte Feldlogik definieren.
 - Layout Manager – man kann die User Interfaces von jeder einzelnen Entität bequem mithilfe von Drag-and-Drop direkt aus dem Adminbereich konfigurieren. Brauchen Sie ein neues Feld? Es dauert genau drei Minuten, dieses Feld hinzuzufügen und auf einem Interface herauszugeben.
-- Im Adminbereich gibt es sonst zahlreiche Konfigurationsmöglichkeiten, um das System zu steuern – z.B. Navigation, allgemein und separat für jede einzelne Rolle, Währungen, Sprachen, Nutzer, Nutzer-Rollen, Teams, E-Mails, etc.
+- Im Adminbereich gibt es weitere zahlreiche Konfigurationsmöglichkeiten, um das System zu steuern – z.B. Navigation, allgemein und separat für jede einzelne Rolle, Währungen, Sprachen, Nutzer, Nutzer-Rollen, Teams, E-Mails, etc.
 - Auch direkt im Code kann man vieles einstellen, was aus dem Adminbereich nicht mehr möglich ist.
 - Ist ein Feature nicht mehr konfigurierbar, kann dieses immer noch zusätzlich programmiert werden.
 
@@ -147,17 +147,17 @@ Man hat folgende Möglichkeiten, das Verhalten des Systems zu beeinflussen:
 
 AtroPIM ist stark konfigurierbar. Viele Anforderungen lassen sich durch Konfigurierung komplett ohne Programmierung innerhalb von Minuten umsetzen.
 
-In AtroPIM kann man konfigurieren:
+In AtroPIM lassen sich konfigurieren:
 
-- Navigation, auch separat für jeden Nutzer oder Portal
+- Navigation, auch separat für jeden Nutzer oder jedes Portal
 - Nutzer, Teams, Rollen und Berechtigungen
 - Entitäten (Produkte, Attribute, Verträge, Dokumente, Produktserien, Produktgruppen etc.) inkl. deren Felder
 - Relationen zwischen Entitäten, z.B. Sie wollen mehrere Dokumente pro Handelspartner abspeichern und diese sollen auf der Detailseite des Handelspartners sichtbar sein.
 - Layouts für alle Standard- und nutzerdefinierten Entitäten
 - Feldüberschriften
-- usw.
+- uvm.
 
-Dank dem hohen Konfigurierungsgrad von AtroPIM können viele Kosten im Rahmen eines Implementierungsprojektes eingespart werden.
+Dank des hohen Konfigurierungsgrades von AtroPIM können viele Kosten im Rahmen eines Implementierungsprojektes eingespart werden.
 
 
 
@@ -174,7 +174,7 @@ Bei AtroPIM gibt es keine Nutzungseinschränkungen, die Lizenzbedingungen sind n
 
 ## Warum gibt es nicht alle Übersetzungen im System, kann man diese ergänzen?
 
-Hauptsprache für AtroPIM ist Englisch. Es kann vorkommen, dass die Übersetzungen für die eine oder andere Sprache nicht vorhanden oder nicht vollständig vorhanden sind. Sie können die notwendigen Lokalisierungen in Ihrer Installation von AtroPIM über den Label Manager ergänzen und uns diese zukommen lassen, damit wir diese in den Core des Systems übernehmen können.
+Hauptsprache für AtroPIM ist Englisch. Es kann vorkommen, dass die Übersetzungen für die eine oder andere Sprache nicht vorhanden oder nicht vollständig vorhanden sind. Sie können die notwendigen Lokalisierungen in Ihrer Installation von AtroPIM über den Label-Manager ergänzen und uns diese zukommen lassen, damit wir diese in den Core des Systems übernehmen können.
 
 Als kostenloses Open-Source-Projekt sind wir auf unsere Community angewiesen und werden uns über jegliche Hilfe bei der Übersetzung und Lokalisierung von AtroPIM freuen.
 
@@ -260,18 +260,18 @@ Ja, AtroPIM hat als einziges PIM-System ein vollwertiges Reponsive Design und ka
 
   
 
-## Ist AtroPIM webbasiert, was bringt es?
+## Ist AtroPIM webbasiert und welche Vorteile resultieren daraus?
 
 AtroPIM ist eine vollkommen webbasierte Software und als solche bietet sie dem Anwender folgende Vorteile an:
 
 - nicht gebunden an feste Arbeitsplätze;
 - kann gleichzeitig von mehreren Nutzern verwendet werden;
 - die Nutzeranzahl ist unbegrenzt;
-- Nutzer mit unterschiedlichen Rollen und Berechtigungen möglich;
-- Zugang von Externen möglich (je nach Konfiguration);
-- Zugang von überall möglich (je nach Konfiguration);
+- Nutzer mit unterschiedlichen Rollen und Berechtigungen sind möglich;
+- Zugang von Externen ist möglich (je nach Konfiguration);
+- Zugang ist von überall möglich (je nach Konfiguration);
 - Funktioniert in jedem Browser, keine zusätzliche Software ist zu installieren;
-- Unkomplizierte Anbindung an beliebige andere Systeme möglich;
+- Unkomplizierte Anbindung an beliebige andere Systeme ist möglich;
 - verfügbar als Intranet und Internet-Lösung.
 
 
@@ -279,6 +279,6 @@ AtroPIM ist eine vollkommen webbasierte Software und als solche bietet sie dem A
 
 ## Was ist Entität (Entity)?
 
-Eine Entität ist eine Einheit von Daten, die klassifiziert werden können und die eine feste Beziehung zu anderen Entitäten haben. Eine Entität hat somit eindeutig identifizierbare Objekte oder eindeutig identifizierbare Sachverhalte, die vergleichbare Eigenschaften aufweisen, die diese Entität charakterisieren. Beispiele einer Entität: Kontakte, Produkte, Produktattribute, Assoziationen, Kategorien, Verträge, Dokumente, Bestellungen etc.
+Eine Entität ist eine Einheit von Daten, die klassifiziert werden können und die eine feste Beziehung zu anderen Entitäten haben. Eine Entität hat somit eindeutig identifizierbare Objekte oder eindeutig identifizierbare Sachverhalte, die vergleichbare Eigenschaften aufweisen, die diese Entität charakterisieren. Beispiele einer Entität: Kontakte, Produkte, Produktattribute, Assoziationen, Kategorien, Verträge, Dokumente, Bestellungen, etc.
 
 Zu einer Entität können mehrere Dateneinträge gehören.

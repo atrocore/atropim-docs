@@ -4,7 +4,7 @@
 
 ## Was ist der Unterschied zwischen einer Produktfamilie und einer Kategorie?
 
-Eine Produktfamilie bestimmt die Art der Produktes, indem durch die Zuweisung einer Produktfamilie automatisch bestimmt wird, welche Attribute verwendet werden sollten, um ein Produkt zu beschreiben, denn beim Anlegen jedes einzelnen Produkts ist die Produktfamilie als Pflichtfeld anzugeben. Ein Produkt kann nur von einer Produktfamilie sein.
+Eine Produktfamilie bestimmt die Art der Produktes, indem durch die Zuweisung einer Produktfamilie automatisch festgelegt wird, welche Attribute verwendet werden sollten, um ein Produkt zu beschreiben, denn beim Anlegen jedes einzelnen Produkts ist die Produktfamilie als Pflichtfeld anzugeben. Ein Produkt kann nur zu einer Produktfamilie gehören.
 
 Kategorien sind für eine Klassifizierung der Produkte wichtig, denn dank der Kategorisierung werden Ihre Produkte von Kunden auch gefunden, z.B. in einem Onlineshop. Kategorien sind wichtig für die Vermarktung der Produkte, somit kann ein Produkt auch mehreren Kategorien zugeordnet sein, um besser gefunden zu werden.
 
@@ -16,15 +16,15 @@ Ja, in AtroPIM können Sie beliebig viele Kategoriebäume haben. Ein Produkt kan
 
   
 
-## Kann man Brands, Produktserien oder Produktgruppen verwalten? Noch was?
+## Kann man Brands, Produktserien oder Produktgruppen verwalten? Und was sonst noch?
 
-Ja. Die Brands gibt es direkt aus der Box. Alle anderen Entities sollten von Administrator über den Entity Manager eingerichtet werden. In AtroPIM ist es möglich, beliebige Daten zu verwalten, die mit der Klassifizierung der Produkte zu tun haben.
+Ja. Die Brands gibt es direkt aus der Box. Alle anderen Entities sollten vom Administrator über den Entity-Manager eingerichtet werden. In AtroPIM ist es möglich, beliebige Daten zu verwalten, die mit der Klassifizierung der Produkte zu tun haben.
 
   
 
 ## Kann ich sehen, wer was und wann geändert hat?
 
-Wenn die Änderungsverfolgung bei einem Feld einer Entität aktiviert ist, wird jede Änderung im System im Stream abgebildet. Man kann sehen, wer was und wann geändert hat, der alte Wert wird dabei ebenfalls angezeigt.
+Wenn die Änderungsverfolgung bei einem Feld einer Entität aktiviert ist, wird jede Änderung im System im Stream abgebildet. Man kann sehen, wer was und wann geändert hat; der alte Wert wird dabei ebenfalls angezeigt.
 
 Um die Änderungsverfolgung zu aktivieren, kontaktieren Sie bitte Ihren Administrator.
 
@@ -40,7 +40,7 @@ Ja, sämtliche SEO-Anforderungen an Ihre Produktinformationen lassen sich in Atr
 
 ## Wie viele und welche Attribute kann ein Produkt haben?
 
-Für ein Produkt sollten die Werte für die Attribute angegeben werden, die der Produktfamilie zugeordnet sind, von der das Produkt selbst ist. Ein Produkt kann beliebig viele Attribute haben, es ist sogar möglich, zusätzliche Attribute hinzuzufügen, die der Produktfamilie des Produktes nicht zugeordnet sind.
+Für ein Produkt sollten die Werte für die Attribute angegeben werden, die der Produktfamilie zugeordnet sind, zu welcher das Produkt selbst gehört. Ein Produkt kann beliebig viele Attribute haben; es ist sogar möglich, zusätzliche Attribute hinzuzufügen, die der Produktfamilie des Produktes nicht zugeordnet sind.
 
 In AtroPIM gibt es über 20 Attributtypen. Jeder Attributwert wird entsprechend seinem Typ beim Abspeichern automatisch validiert.
 
@@ -56,7 +56,7 @@ Bei der Konfiguration der Produktfamilie kann man für jedes Attribut bestimmen,
 
 Ja, in AtroPIM gibt es WYSIWYG als Entitätsfeld-Typ und als Attributtyp.
 
-Somit kann man Rich-Texte (HTML-Texte) auf beide Arten abspeichern – als Wert eines Feldes (nicht nur bei Produkten) als auch als Wert eines Produktattributes.
+Somit kann man Rich-Texte (HTML-Texte) auf beide Arten abspeichern: sowohl als Wert eines Feldes (nicht nur bei Produkten) als auch als Wert eines Produktattributes.
 
   
 
@@ -86,7 +86,7 @@ Ja, nutzen Sie dafür die Filterfunktion auf der Produktseite. Sie können hier 
 
 ## Wie kann man Produkte sortieren?
 
-Klicken Sie dafür auf den Spaltennamen. Klicken Sie nochmal auf den Spaltennamen, um die Einträge in der umgekehrten Reihenfolge zu sortieren.
+Klicken Sie dafür auf den Spaltennamen. Klicken Sie erneut auf den Spaltennamen, um die Einträge in der umgekehrten Reihenfolge zu sortieren.
 
 
 

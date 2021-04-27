@@ -6,7 +6,7 @@
 
 AtroPIM ist eine hochflexible PIM-Software, die von einer breiten Zielgruppe gleich gut genutzt werden kann – sowohl von Marken und Herstellern als auch von Groß-, Einzel- und Onlinehändlern.
 
-Das System kann problemlos speziell je nach Anwendertyp und Zwecke konfiguriert werden. Es können auch neue Entitäten und Relationen zu bestehenden Entities eingerichtet werden, um besondere Anforderungen abzubilden.
+Das System kann problemlos speziell je nach Anwendertyp und Zweck konfiguriert werden. Es können auch neue Entitäten und Relationen zu bestehenden Entities eingerichtet werden, um besondere Anforderungen abzubilden.
 
 
 
@@ -18,13 +18,13 @@ Wir glauben fest an den Open-Source-Ansatz und damit verbundene Werte und haben 
 
 Es gibt weltweit nur zwei Anbieter von PIM-Software, die dem Open-Source-Ansatz folgen – es sind Akeneo und Pimcore.
 
-AtroPIM ist kostenlos. Außer Akeneo und Pimcore, die auch kostenlose Versionen anbieten, wird für alle sonstigen PIM-Systeme eine Miet- oder Kauflizenz benötigt.
+AtroPIM ist kostenlos. Außer Akeneo und Pimcore, die ebenfalls kostenlose Versionen anbieten, wird für alle sonstigen PIM-Systeme eine Miet- oder Kauflizenz benötigt.
 
   
 
 ### Unglaubliche Flexibilität und Konfigurierbarkeit
 
-Das Datenmodell von AtroPIM ist dank Entity Manager und Layout Manager komplett konfigurierbar und kann somit die Besonderheiten jedes einzelnen Anwenders von Anfang an berücksichtigen. Die Funktionalität kann mithilfe von zahlreichen Modulen erweitert werden.
+Das Datenmodell von AtroPIM ist dank Entity-Manager und Layout-Manager komplett konfigurierbar und kann somit die Besonderheiten jedes einzelnen Anwenders von Anfang an berücksichtigen. Die Funktionalität kann mithilfe von zahlreichen Modulen erweitert werden.
 
 Dank der serviceorientierten Softwarearchitektur können beliebige Wünsche problemlos und schnell umgesetzt werden. AtroPIM ist speziell für Anwender mit vielen Sonderwünschen entwickelt worden.
 
@@ -32,7 +32,7 @@ Dank der serviceorientierten Softwarearchitektur können beliebige Wünsche prob
 
 ### AtroPIM basiert auf AtroCore
 
-AtroСore ist ein vollwertiges Ecosystem oder Plattform für die Entwicklung von Business Applications. Alle Module für AtroPIM werden automatisch auch mit anderen auf AtroCore- basierten Lösungen kompatibel sein und vice versa. Aktuell besteht die Möglichkeit, AtroPIM zusammen mit AtroDAM in einer Instanz zu nutzen. Somit schafft AtroCore ein neues Software-Ökosystem für den Ausbau der Software und die Entwicklung von neuen Lösungen.
+AtroСore ist ein vollwertiges Ecosystem bzw. eine Plattform für die Entwicklung von Business Applications. Alle Module für AtroPIM werden automatisch auch mit anderen auf AtroCore-basierten Lösungen kompatibel sein und vice versa. Aktuell besteht die Möglichkeit, AtroPIM zusammen mit AtroDAM in einer Instanz zu nutzen. Somit schafft AtroCore ein neues Software-Ökosystem für den Ausbau der Software und die Entwicklung von neuen Lösungen.
 
   
 
@@ -50,27 +50,27 @@ Direkt nach der Installation des Systems sind folgende Portale voreingerichtet:
 
 ### Einheitliche Software Edition
 
-Es gibt keine Einteilung in Community Edition, Professional Edition, Enterprise Edition oder Ähnliches. Alle Anwender verwenden eine einheitliche Edition von AtroPIM-Software. Die Benutzersysteme unterscheiden sich nur in den verwendeten Modulen. Dieser Ansatz verschafft der AtroPIM-Software einen klaren Wettbewerbsvorteil, auch im Vergleich zu anderen Open-Source PIM-Lösungen.
+Es gibt keine Einteilung in Community Edition, Professional Edition, Enterprise Edition oder Ähnliches. Alle Anwender verwenden eine einheitliche Edition der AtroPIM-Software. Die Benutzersysteme unterscheiden sich nur in den verwendeten Modulen. Dieser Ansatz verschafft der AtroPIM-Software einen klaren Wettbewerbsvorteil, auch im Vergleich zu anderen Open-Source PIM-Lösungen.
 
   
 
 ### Responsive Design
 
-Alle Interfaces von AtroPIM sind responsive und können gleich gut auf allen Geräten genutzt werden – auf Smartphones, auf Tablets und auf Desktops. Responsivität der User-Interfaces ist mit Änderungen über den Layout Manager nicht verknüpft.
+Alle Interfaces von AtroPIM sind responsive und können gleich gut auf allen Geräten genutzt werden – auf Smartphones, auf Tablets und auf Desktops. Responsivität der User-Interfaces ist mit Änderungen über den Layout-Manager nicht verknüpft.
 
   
 
 ### Hohe Value-for-Money (VFM)
 
-AtroPIM ist kostenlos und bietet sehr viele Funktionen in Bezug auf die Verwaltung von Produktinformationen direkt aus der Box an, keine andere kostenlose Lösung und auch viele kostenpflichtige können hier mithalten. Auch wenn Sie kostenpflichtige Premium-Module und die Kosten für die Umsetzung eines “typischen PIM-Projektes” dazurechnen, bekommen Sie oft einen günstigeren Gesamtbetrag als bei der Konkurrenz!
+AtroPIM ist kostenlos und bietet sehr viele Funktionen in Bezug auf die Verwaltung von Produktinformationen direkt aus der Box an, keine andere kostenlose Lösung kann hier mithalten, was ebenso für zahlreiche kostenpflichtige Lösungen gilt. Auch wenn Sie kostenpflichtige Premium-Module und die Kosten für die Umsetzung eines “typischen PIM-Projektes” dazurechnen, bekommen Sie oft einen günstigeren Gesamtbetrag als bei der Konkurrenz!
 
   
 
 ### Geringe Einführungs- und Support-Kosten
 
-Da das AtroPIM PIM-System einen hohen Konfigurationsgrad aufweist, können viele Änderungen am System ganz ohne Programmierung vorgenommen werden. Auch wenn Änderungen am Code vorzunehmen sind, können diese aufgrund der hohen Flexibilität des Systems und der hohen Codequalität relativ schnell vorgenommen werden.
+Da das AtroPIM PIM-System einen hohen Konfigurationsgrad aufweist, können viele Änderungen am System ganz ohne Programmierung durchgeführt werden. Auch wenn Änderungen am Code vorzunehmen sind, können diese aufgrund der hohen Flexibilität des Systems und der hohen Codequalität relativ schnell vorgenommen werden.
 
-Preise für unsere Connectoren zu anderen Systemen sind meistens niedriger als bei der Konkurrenz, außerdem sind diese vom Umfang der ausgetauschten Daten nicht abhängig.
+Preise für unsere Connectoren zu anderen Systemen sind meistens niedriger als bei den Mitbewerbern, außerdem sind diese vom Umfang der ausgetauschten Daten nicht abhängig.
 
 Wir bieten zahlreiche günstige Module an, um die Funktionalität des Systems zu ergänzen oder zu ändern. Der Einsatz von bestehenden Modulen ist wesentlich günstiger als die Eigenentwicklung.
 
@@ -86,13 +86,13 @@ AtroPIM ist eine wirklich innovative Lösung mit vielen Möglichkeiten für den 
 
 ## Kann man in AtroPIM mehr als nur Produktinformationen verwalten?
 
-Ja, AtroPIM ist eine flexible und konfigurierbare Business Application. Hier können beliebige Daten aufbewahrt und verwaltet werden. Nutzen Sie den Entity Manager, um die Ihnen noch fehlenden Entitäten einzurichten, diese können z.B. sein – Produktserien, Bestellungen, Verträge, Kundenstammdaten, Rechnungen etc.
+Ja, AtroPIM ist eine flexible und konfigurierbare Business Application. Hier können beliebige Daten aufbewahrt und verwaltet werden. Nutzen Sie den Entity-Manager, um die Ihnen noch fehlenden Entitäten einzurichten, diese können z.B. sein: Produktserien, Bestellungen, Verträge, Kundenstammdaten, Rechnungen etc.
 
 
 
-## Ist AtroPIM Open Source (quelloffen), was bedeutet es?
+## Ist AtroPIM Open Source (quelloffen) und was bedeutet das?
 
-Ja, AtroPIM ist Open Source. Wir haben nichts zu verstecken und jeder Entwickler, der sich mit den von uns eingesetzten Technologien auskennt (PHP, Backbone.js etc.) kann bei Bedarf Änderungen direkt im Code vornehmen.
+Ja, AtroPIM ist Open Source. Wir haben nichts zu verstecken und jeder Entwickler, der sich mit den von uns eingesetzten Technologien auskennt (PHP, Backbone.js etc.), kann bei Bedarf Änderungen direkt im Code vornehmen.
 
 Auch alle kostenlosen und kostenpflichtigen (Premium-) Module werden quelloffen geliefert. Bitte beachten Sie, dass die Premium Module keine freie Software sind, die Lizenzbedingungen sind zu beachten, diese sind aber auch quelloffen. Genau deshalb können wir mit Stolz sagen, dass AtroPIM eine 100% Open Source PIM-Software ist.
 

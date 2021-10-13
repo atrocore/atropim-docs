@@ -11,7 +11,7 @@ Please use PHP version 7.1 or higher and MySQL version 5.7 or higher.
  
 ## Is it possible to use MariaDB instead of MySQL?
 
-Yes, without any restrictions.
+No, currently not. But this will be changed in the future.
 
   
 
